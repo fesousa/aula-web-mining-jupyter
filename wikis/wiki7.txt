@@ -1,0 +1,2214 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>União Social-Cristã – Wikipédia, a enciclopédia livre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"União_Social-Cristã","wgTitle":"União Social-Cristã","wgCurRevisionId":51832496,"wgRevisionId":51832496,"wgArticleId":58819,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Artigos bons na Wikipédia em alemão","Partidos políticos da Alemanha","Democracia cristã"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"União_Social-Cristã","wgRelevantArticleId":58819,"wgRequestId":"W5luTgrAIDMAAHLcp1IAAABA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","pageVariantFallbacks":"pt","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"português","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q49763","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.28"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0jqysje",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pt"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.requestForAdminship","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Uni%C3%A3o_Social-Crist%C3%A3"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pt.wikipedia.org/wiki/Uni%C3%A3o_Social-Crist%C3%A3"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=pt&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-União_Social-Cristã rootpage-União_Social-Cristã skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Eocultar\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"pt\" dir=\"ltr\"\u003E\u003Cdiv style=\"color: #323232; line-height: 1.7;\"\u003E\n\u003Cdiv class=\"floatright\"\u003E\u003Ca href=\"/wiki/Wikip%C3%A9dia:Comunicado_sobre_o_Museu_Nacional\" title=\"Wikipédia:Comunicado sobre o Museu Nacional\"\u003E\u003Cimg alt=\"Fire at Museu Nacional 05.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fire_at_Museu_Nacional_05.jpg/150px-Fire_at_Museu_Nacional_05.jpg\" width=\"150\" height=\"113\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fire_at_Museu_Nacional_05.jpg/225px-Fire_at_Museu_Nacional_05.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fire_at_Museu_Nacional_05.jpg/300px-Fire_at_Museu_Nacional_05.jpg 2x\" data-file-width=\"3264\" data-file-height=\"2448\" /\u003E\u003C/a\u003E\u003C/div\u003E\u003Cbr/\u003E\n\u003Cdiv class=\"center\" style=\"font-size:120%; width:auto; margin-left:auto; margin-right:auto;\"\u003E\n\u003Cp\u003E\u003Cb\u003EA Wikipédia em Língua Portuguesa está de luto. \u003C/b\u003E\u003Cbr/\u003E\u003Cbr/\u003E\n\u003Cb\u003E\u003Ca href=\"/wiki/Wikip%C3%A9dia:Comunicado_sobre_o_Museu_Nacional\" title=\"Wikipédia:Comunicado sobre o Museu Nacional\"\u003ELeia o texto completo de nosso comunicado\u003C/a\u003E.\u003C/b\u003E\n\u003C/p\u003E\n\u003C/div\u003E\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">União Social-Cristã</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Saltar para a navegação</a>
+				<a class="mw-jump-link" href="#p-search">Saltar para a pesquisa</a>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox_v2" cellpadding="3" border="0" style="width: 20em; text-align: left; font-size: 88%;">
+
+<tbody><tr>
+<th colspan="2" class="topo padrao" style="border-top: 2px solid skyblue; border-bottom: 2px solid skyblue"><span class=""><span class="fn org">União Social-Cristã na Baviera</span><br /><div style="font-size:smaller; font-style:italic; line-height:1.2em; padding:0.1em 0;" class="nickname">Christlich-Soziale Union in Bayern</div></span>
+</th></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:center;"><div class="center"><div class="floatnone"><a href="/wiki/Ficheiro:Csu_Logo_2016_neu.svg" class="image" title="União Social-Cristã"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Csu_Logo_2016_neu.svg/150px-Csu_Logo_2016_neu.svg.png" width="150" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Csu_Logo_2016_neu.svg/225px-Csu_Logo_2016_neu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Csu_Logo_2016_neu.svg/300px-Csu_Logo_2016_neu.svg.png 2x" data-file-width="742" data-file-height="170" /></a></div></div>
+</td></tr>
+
+
+
+
+
+ 
+
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Líder</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/Horst_Seehofer" title="Horst Seehofer">Horst Seehofer</a>
+</td></tr>
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Fundação</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;">1945
+</td></tr>
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Ideologia</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/Democracia_crist%C3%A3" title="Democracia cristã">Democracia cristã</a> <br /> <a href="/wiki/Conservadorismo" title="Conservadorismo">Conservadorismo</a> <br /> <a href="/wiki/Regionalismo" class="mw-disambig" title="Regionalismo">Regionalismo</a>
+</td></tr>
+ 
+
+ 
+
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b><a href="/wiki/Espectro_pol%C3%ADtico" title="Espectro político">Espectro político</a></b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/Centro-direita" title="Centro-direita">Centro-direita</a>
+</td></tr>
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Antecessor</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/Partido_Popular_da_Baviera" title="Partido Popular da Baviera">Partido Popular da Baviera</a>
+</td></tr>
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Afiliação nacional</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/A_Uni%C3%A3o_(Alemanha)" title="A União (Alemanha)">A União</a>
+</td></tr>
+ 
+
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Afiliação internacional</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/Uni%C3%A3o_Internacional_Democrata" title="União Internacional Democrata">União Internacional Democrata</a>
+</td></tr>
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Afiliação europeia</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/Partido_Popular_Europeu" title="Partido Popular Europeu">Partido Popular Europeu</a>
+</td></tr>
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Grupo no <a href="/wiki/Parlamento_Europeu" title="Parlamento Europeu">Parlamento Europeu</a></b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/Grupo_do_Partido_Popular_Europeu" title="Grupo do Partido Popular Europeu">Grupo do Partido Popular Europeu</a>
+</td></tr>
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b><a href="/wiki/Bundestag" title="Bundestag">Bundestag</a></b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><span class="sortkey" style="visibility: hidden; display: none;">0000000000000055</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">55&#160;/&#160;630</div></div>
+</td></tr>
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b><a href="/wiki/Parlamento_Europeu" title="Parlamento Europeu">Parlamento Europeu</a></b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><span class="sortkey" style="visibility: hidden; display: none;">0000000000000005</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:5px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">5&#160;/&#160;96</div></div>
+</td></tr>
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Parlamento da Baviera</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><span class="sortkey" style="visibility: hidden; display: none;">0000000000000101</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:54px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">101&#160;/&#160;187</div></div>
+</td></tr>
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em; font-style:bold;"><b>Cores</b>
+</td>
+<td style="vertical-align: top; text-align: left; padding-top:0.2em; line-height:1.3em;"><a href="/wiki/Azul" title="Azul">Azul</a> e <a href="/wiki/Branco" title="Branco">Branco</a>
+</td></tr>
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<tr>
+<td colspan="2" style="text-align:center; font-size: small; border-top: 2px solid skyblue"><small></small>
+</td></tr>
+
+</tbody></table><p>A <b>União Social-Cristã na Baviera</b> (<b>CSU</b>, em alemão: <a href="/wiki/Ficheiro:De-CSU.ogg" title="Ficheiro:De-CSU.ogg"><img alt="Loudspeaker.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a><sup><a href="/wiki/Ajuda:Guia_de_consulta_e_reprodu%C3%A7%C3%A3o/Reproduzindo_Ogg" title="Ajuda:Guia de consulta e reprodução/Reproduzindo Ogg">?</a>&#160;</sup><a href="//upload.wikimedia.org/wikipedia/commons/e/eb/De-CSU.ogg" class="internal" title="De-CSU.ogg"><b>CSU</b> – <i>Christlich-Soziale Union in Bayern e.V.</i></a>) é um <a href="/wiki/Partido_pol%C3%ADtico" title="Partido político">partido político</a> <a href="/wiki/Conservador" class="mw-redirect" title="Conservador">conservador</a> de orientação <a href="/wiki/Democracia_crist%C3%A3" title="Democracia cristã">democrata cristã</a> na <a href="/wiki/Alemanha" title="Alemanha">Alemanha</a>. Está presente apenas no <a href="/wiki/Estado" title="Estado">estado</a> da <a href="/wiki/Baviera" title="Baviera">Baviera</a> (<i>Bayern</i>), enquanto o seu partido irmão <a href="/wiki/Uni%C3%A3o_Democrata-Crist%C3%A3" title="União Democrata-Cristã">CDU</a> está presente no resto do país. Apenas em <a href="/wiki/1957" title="1957">1957</a> no estado de <a href="/wiki/Sarre" title="Sarre">Sarre</a> (<i>Saarland</i>), a CSU concorreu contra candidatos da CDU. Mais tarde, esta parte da CSU foi absorvida pela CDU.
+</p><p>A CSU dirige o governo do estado da Baviera praticamente desde a sua fundação, a maior parte do tempo sem necessidade de coligações. Este domínio é único na Alemanha do <a href="/wiki/P%C3%B3s-guerra" title="Pós-guerra">pós-guerra</a>. A nível <a href="/wiki/Federal" class="mw-disambig" title="Federal">federal</a>, a CSU forma um <a href="/wiki/Grupo_parlamentar" title="Grupo parlamentar">grupo parlamentar</a> único com a CDU no <a href="/wiki/Bundestag" title="Bundestag">Bundestag</a> (Parlamento Federal). <a href="/wiki/Edmund_Stoiber" title="Edmund Stoiber">Edmund Stoiber</a> ocupa a presidência da CSU desde 1999. Foi candidato a <a href="/wiki/Chanceler" title="Chanceler">chanceler</a> em 2002, mas foi derrotado. 
+</p><p>Em 2003, a CSU foi reeleita para o governo da Baviera com maioria absoluta. <a href="/w/index.php?title=Franz_Josef_Strauss&amp;action=edit&amp;redlink=1" class="new" title="Franz Josef Strauss (página não existe)">Franz Josef Strauss</a> (1915-1988) é visto como tendo estabelecido as bases ideológicas do partido, embora fosse demasiado novo para ter sido líder fundador do partido, que teve o seu início como a continuação do <a href="/wiki/Partido_Popular_da_Baviera" title="Partido Popular da Baviera">Partido Popular da Baviera</a> (<i>Bayerische Volkspartei</i>) da <a href="/wiki/Rep%C3%BAblica_de_Weimar" title="República de Weimar">época Weimar</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="pt" dir="ltr"><h2>Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Resultados_Eleitorais"><span class="tocnumber">1</span> <span class="toctext">Resultados Eleitorais</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Eleições_legislativas_da_Alemanha"><span class="tocnumber">1.1</span> <span class="toctext">Eleições legislativas da Alemanha</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Eleições_regionais_da_Baviera"><span class="tocnumber">1.2</span> <span class="toctext">Eleições regionais da Baviera</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Eleições_europeias"><span class="tocnumber">1.3</span> <span class="toctext">Eleições europeias</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Presidentes_da_União_Social-Cristã_na_Baviera,_desde_1946"><span class="tocnumber">2</span> <span class="toctext">Presidentes da União Social-Cristã na Baviera, desde 1946</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ligações_externas"><span class="tocnumber">3</span> <span class="toctext">Ligações externas</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Resultados_Eleitorais">Resultados Eleitorais</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Editar secção: Resultados Eleitorais">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit&amp;section=1" title="Editar secção: Resultados Eleitorais">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Elei.C3.A7.C3.B5es_legislativas_da_Alemanha"></span><span class="mw-headline" id="Eleições_legislativas_da_Alemanha">Eleições legislativas da Alemanha</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Editar secção: Eleições legislativas da Alemanha">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit&amp;section=2" title="Editar secção: Eleições legislativas da Alemanha">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th rowspan="2">Data
+</th>
+<th colspan="4">M. Uninominal
+</th>
+<th colspan="4">M. Proporcional
+</th>
+<th rowspan="2">Deputados
+</th>
+<th rowspan="2">+/-
+</th>
+<th rowspan="2">Status
+</th></tr>
+<tr>
+<th>CI.
+</th>
+<th>Votos
+</th>
+<th>%
+</th>
+<th>+/-
+</th>
+<th>CI.
+</th>
+<th>Votos
+</th>
+<th>%
+</th>
+<th>+/-
+</th></tr>
+<tr>
+<td>1949
+</td>
+<th colspan="4">
+</th>
+<td>4.º
+</td>
+<td>1 380 448
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000005.8</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:5px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">5,8&#160;/&#160;100,0</div></div>
+</td>
+<td>
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000024</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:5px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">24&#160;/&#160;402</div></div>
+</td>
+<td>
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1953
+</td>
+<td>4.º
+</td>
+<td>2 450 286
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000008.9</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8,9&#160;/&#160;100,0</div></div>
+</td>
+<td>
+</td>
+<td>4.º
+</td>
+<td>2 427 387
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000008.8</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8,8&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>3,0
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000052</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">52&#160;/&#160;509</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>28
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1957
+</td>
+<td>3.º
+</td>
+<td>3 186 150
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.6</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,6&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,7
+</td>
+<td>3.º
+</td>
+<td>3 133 060
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.5</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,5&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,7
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000055</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">55&#160;/&#160;519</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>3
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1961
+</td>
+<td>4.º
+</td>
+<td>3 104 742
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.7</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,7&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,9
+</td>
+<td>4.º
+</td>
+<td>3 014 471
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.6</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,6&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,9
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000050</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">50&#160;/&#160;521</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>5
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1965
+</td>
+<td>3.º
+</td>
+<td>3 204 648
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.9</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,9&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,2
+</td>
+<td>3.º
+</td>
+<td>3 136 506
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.6</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,6&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Estável"><img alt="Estável" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000049</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">49&#160;/&#160;518</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1969
+</td>
+<td>3.º
+</td>
+<td>3 094 176
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.5</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,5&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,4
+</td>
+<td>3.º
+</td>
+<td>3 115 652
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.5</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,5&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,1
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000049</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">49&#160;/&#160;518</div></div>
+</td>
+<td><span title="Estável"><img alt="Estável" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>
+</td>
+<td>Oposição
+</td></tr>
+<tr>
+<td>1972
+</td>
+<td>3.º
+</td>
+<td>3 620 625
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.7</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,7&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,2
+</td>
+<td>3.º
+</td>
+<td>3 615 183
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.7</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,7&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,2
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000048</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">48&#160;/&#160;518</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td>
+<td>Oposição
+</td></tr>
+<tr>
+<td>1976
+</td>
+<td>3.º
+</td>
+<td>4 008 514
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.6</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,6&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,9
+</td>
+<td>3.º
+</td>
+<td>4 027 499
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.6</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,6&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,9
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000053</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">53&#160;/&#160;518</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>5
+</td>
+<td>Oposição
+</td></tr>
+<tr>
+<td>1980
+</td>
+<td>3.º
+</td>
+<td>3 941 365
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,2
+</td>
+<td>4.º
+</td>
+<td>3 908 459
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.3</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,3&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,3
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000052</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">52&#160;/&#160;519</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td>
+<td>Oposição
+</td></tr>
+<tr>
+<td>1983
+</td>
+<td>3.º
+</td>
+<td>4 318 800
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000011.1</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:11px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">11,1&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,7
+</td>
+<td>3.º
+</td>
+<td>4 140 865
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.6</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,6&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,3
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000053</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">53&#160;/&#160;520</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1987
+</td>
+<td>3.º
+</td>
+<td>3 859 244
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.2</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,2&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,9
+</td>
+<td>3.º
+</td>
+<td>3 715 827
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.8</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,8&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,8
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000049</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">49&#160;/&#160;519</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>4
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1990
+</td>
+<td>4.º
+</td>
+<td>3 423 904
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2,8
+</td>
+<td>4.º
+</td>
+<td>3 302 980
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.1</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,1&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2,7
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000051</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">51&#160;/&#160;662</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1994
+</td>
+<td>3.º
+</td>
+<td>3 657 627
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.8</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,8&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,4
+</td>
+<td>3.º
+</td>
+<td>3 427 196
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.3</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,3&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,2
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000050</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">50&#160;/&#160;672</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1998
+</td>
+<td>3.º
+</td>
+<td>3 602 472
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.3</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,3&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,5
+</td>
+<td>3.º
+</td>
+<td>3 324 480
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000006.8</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:6px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">6,8&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,5
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000047</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">47&#160;/&#160;669</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>3
+</td>
+<td>Oposição
+</td></tr>
+<tr>
+<td>2002
+</td>
+<td>3.º
+</td>
+<td>4 311 178
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.0</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,0&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,7
+</td>
+<td>3.º
+</td>
+<td>4 315 080
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.0</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,0&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2,2
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000058</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">58&#160;/&#160;603</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>11
+</td>
+<td>Oposição
+</td></tr>
+<tr>
+<td>2005
+</td>
+<td>3.º
+</td>
+<td>3 889 990
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000008.2</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8,2&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,8
+</td>
+<td>6.º
+</td>
+<td>3 494 309
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,6
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000046</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">46&#160;/&#160;614</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>12
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>2009
+</td>
+<td>6.º
+</td>
+<td>3 191 000
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,8
+</td>
+<td>6.º
+</td>
+<td>2 830 238
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000006.5</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:6px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">6,5&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,9
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000045</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">45&#160;/&#160;622</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td>4.º
+</td>
+<td>3 544 079
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000008.1</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8,1&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,7
+</td>
+<td>5.º
+</td>
+<td>3 243 569
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,9
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000056</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">56&#160;/&#160;631</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>11
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td>6.º
+</td>
+<td>3 255 604
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.0</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,0&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,1
+</td>
+<td>7.º
+</td>
+<td>2 869 744
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000006.2</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:6px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">6,2&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,2
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000046</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:6px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">46&#160;/&#160;709</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>11
+</td>
+<td>
+</td></tr></tbody></table>
+<h3><span id="Elei.C3.A7.C3.B5es_regionais_da_Baviera"></span><span class="mw-headline" id="Eleições_regionais_da_Baviera">Eleições regionais da Baviera</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Editar secção: Eleições regionais da Baviera">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit&amp;section=3" title="Editar secção: Eleições regionais da Baviera">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Data
+</th>
+<th>CI.
+</th>
+<th>Votos
+</th>
+<th>%
+</th>
+<th>+/-
+</th>
+<th>Deputados
+</th>
+<th>+/-
+</th>
+<th>Status
+</th></tr>
+<tr>
+<td>1946
+</td>
+<td><b>1.º</b>
+</td>
+<td>1 593 908
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000052.2</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:52px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">52,2&#160;/&#160;100,0</div></div>
+</td>
+<td>
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000104</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:57px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">104&#160;/&#160;180</div></div>
+</td>
+<td>
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1950
+</td>
+<td>2.º
+</td>
+<td>1 262 377
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000027.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:27px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">27,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>24,8
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000064</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:31px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">64&#160;/&#160;204</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>40
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1954
+</td>
+<td><b>1.º</b>
+</td>
+<td>1 835 959
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000037.9</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:37px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">37,9&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>10,5
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000083</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:40px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">83&#160;/&#160;204</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>21
+</td>
+<td>Oposição
+</td></tr>
+<tr>
+<td>1958
+</td>
+<td><b>1.º</b>
+</td>
+<td>2 091 259
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000045.5</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:45px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">45,5&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>7,6
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000101</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:49px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">101&#160;/&#160;204</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>21
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1962
+</td>
+<td><b>1.º</b>
+</td>
+<td>2 320 359
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000047.5</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:47px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">47,5&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2,0
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000108</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:52px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">108&#160;/&#160;204</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>7
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1966
+</td>
+<td><b>1.º</b>
+</td>
+<td>2 524 732
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000048.1</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:48px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">48,1&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,6
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000110</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:53px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">110&#160;/&#160;204</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1970
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 139 429
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000056.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:56px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">56,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>8,3
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000124</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:60px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">124&#160;/&#160;204</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>14
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1974
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 481 486
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000062.0</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:62px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">62,0&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>5,6
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000132</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:64px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">132&#160;/&#160;204</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>8
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1978
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 387 995
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000059.1</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:59px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">59,1&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2,9
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000129</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:63px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">129&#160;/&#160;204</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>3
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1982
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 534 375
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000058.2</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:58px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">58,2&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,9
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000133</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:65px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">133&#160;/&#160;204</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>4
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1986
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 191 640
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000055.7</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:55px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">55,7&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2,5
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000128</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:62px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">128&#160;/&#160;204</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>5
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1990
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 085 948
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000054.9</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:54px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">54,9&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,8
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000127</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:62px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">127&#160;/&#160;204</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1994
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 100 253
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000052.8</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:52px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">52,8&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2,1
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000120</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:58px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">120&#160;/&#160;204</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>7
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>1998
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 278 768
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000052.9</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:52px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">52,9&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,1
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000123</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:60px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">123&#160;/&#160;204</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>3
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>2003
+</td>
+<td><b>1.º</b>
+</td>
+<td>3 167 408
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000060.6</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:60px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">60,6&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>7,7
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000124</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:68px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">124&#160;/&#160;180</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>2008
+</td>
+<td><b>1.º</b>
+</td>
+<td>2 336 439
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000043.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:43px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">43,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>17,3
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000092</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:49px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">92&#160;/&#160;187</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>32
+</td>
+<td><b>Governo</b>
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td><b>1.º</b>
+</td>
+<td>2 882 169
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000047.7</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:47px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">47,7&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>4,3
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000101</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:56px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">101&#160;/&#160;180</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>9
+</td>
+<td><b>Governo</b>
+</td></tr></tbody></table>
+<h3><span id="Elei.C3.A7.C3.B5es_europeias"></span><span class="mw-headline" id="Eleições_europeias">Eleições europeias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Editar secção: Eleições europeias">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit&amp;section=4" title="Editar secção: Eleições europeias">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Data
+</th>
+<th>CI.
+</th>
+<th>Votos
+</th>
+<th>%
+</th>
+<th>+/-
+</th>
+<th>Deputados
+</th>
+<th>+/-
+</th></tr>
+<tr>
+<td><a href="/wiki/Elei%C3%A7%C3%B5es_parlamentares_europeias_de_1979" title="Eleições parlamentares europeias de 1979">1979</a>
+</td>
+<td>3.º
+</td>
+<td>2 817 120
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000010.1</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10,1&#160;/&#160;100,0</div></div>
+</td>
+<td>
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000008</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8&#160;/&#160;81</div></div>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elei%C3%A7%C3%B5es_parlamentares_europeias_de_1984" title="Eleições parlamentares europeias de 1984">1984</a>
+</td>
+<td>3.º
+</td>
+<td>2 109 130
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000008.5</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8,5&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,6
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000007</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7&#160;/&#160;81</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td></tr>
+<tr>
+<td><a href="/wiki/Elei%C3%A7%C3%B5es_parlamentares_europeias_de_1989" title="Eleições parlamentares europeias de 1989">1989</a>
+</td>
+<td>4.º
+</td>
+<td>2 326 277
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000008.2</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8,2&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,3
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000007</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7&#160;/&#160;81</div></div>
+</td>
+<td><span title="Estável"><img alt="Estável" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elei%C3%A7%C3%B5es_parlamentares_europeias_de_1994" title="Eleições parlamentares europeias de 1994">1994</a>
+</td>
+<td>4.º
+</td>
+<td>2 393 374
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000006.8</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:6px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">6,8&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,4
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000008</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8&#160;/&#160;99</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td></tr>
+<tr>
+<td><a href="/wiki/Elei%C3%A7%C3%B5es_parlamentares_europeias_de_1999" title="Eleições parlamentares europeias de 1999">1999</a>
+</td>
+<td>4.º
+</td>
+<td>2 540 007
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000009.4</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9,4&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>3,0
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000010</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:10px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">10&#160;/&#160;99</div></div>
+</td>
+<td><span title="Aumento"><img alt="Aumento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>2
+</td></tr>
+<tr>
+<td><a href="/wiki/Elei%C3%A7%C3%B5es_parlamentares_europeias_de_2004" title="Eleições parlamentares europeias de 2004">2004</a>
+</td>
+<td>3.º
+</td>
+<td>2 063 900
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000008.0</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8,0&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,4
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000009</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:9px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">9&#160;/&#160;99</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td></tr>
+<tr>
+<td><a href="/wiki/Elei%C3%A7%C3%B5es_parlamentares_europeias_de_2009" title="Eleições parlamentares europeias de 2009">2009</a>
+</td>
+<td>6.º
+</td>
+<td>1 896 762
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000007.2</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:7px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">7,2&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>0,8
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000008</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:8px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">8&#160;/&#160;99</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td>6.º
+</td>
+<td>1 567 258
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">00000000000005.3</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:5px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">5,3&#160;/&#160;100,0</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>1,9
+</td>
+<td><span class="sortkey" style="visibility: hidden; display: none;">0000000000000005</span><div style="border-style:solid;border-width:1px;border-color:#c0c0c0;vertical-align: middle;background-color:#f0f0f0;width:100px;height:1.5em;"><div style="position: absolute; background-color:skyblue;width:5px;height:1.5em;"></div><div style="position: absolute;vertical-align: middle; font-weight:bold;width:100px;height:1.5em;text-align:center;vertical-align: middle;">5&#160;/&#160;96</div></div>
+</td>
+<td><span title="Baixa"><img alt="Baixa" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>3
+</td></tr></tbody></table>
+<h2><span id="Presidentes_da_Uni.C3.A3o_Social-Crist.C3.A3_na_Baviera.2C_desde_1946"></span><span class="mw-headline" id="Presidentes_da_União_Social-Cristã_na_Baviera,_desde_1946">Presidentes da União Social-Cristã na Baviera, desde 1946</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Editar secção: Presidentes da União Social-Cristã na Baviera, desde 1946">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit&amp;section=5" title="Editar secção: Presidentes da União Social-Cristã na Baviera, desde 1946">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=Josef_M%C3%BCller&amp;action=edit&amp;redlink=1" class="new" title="Josef Müller (página não existe)">Josef Müller</a> 1946-1949</li>
+<li><a href="/w/index.php?title=Hans_Ehard&amp;action=edit&amp;redlink=1" class="new" title="Hans Ehard (página não existe)">Hans Ehard</a> 1949-1955</li>
+<li><a href="/w/index.php?title=Hanns_Seidel&amp;action=edit&amp;redlink=1" class="new" title="Hanns Seidel (página não existe)">Hanns Seidel</a> 1955-1961</li>
+<li><a href="/w/index.php?title=Franz_Josef_Strauss&amp;action=edit&amp;redlink=1" class="new" title="Franz Josef Strauss (página não existe)">Franz Josef Strauss</a> 1961-1988</li>
+<li><a href="/w/index.php?title=Theo_Waigel&amp;action=edit&amp;redlink=1" class="new" title="Theo Waigel (página não existe)">Theo Waigel</a> 1988-1999</li>
+<li><a href="/wiki/Edmund_Stoiber" title="Edmund Stoiber">Edmund Stoiber</a> 1999-2007</li>
+<li><a href="/w/index.php?title=Erwin_Huber&amp;action=edit&amp;redlink=1" class="new" title="Erwin Huber (página não existe)">Erwin Huber</a> 2007-2008</li>
+<li><a href="/wiki/Horst_Seehofer" title="Horst Seehofer">Horst Seehofer</a> 2008-</li></ul>
+<h2><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Editar secção: Ligações externas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit&amp;section=6" title="Editar secção: Ligações externas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.csu.de">CSU</a> (apenas disponível em alemão, inglês, espanhol, francês, italiano e turco)</li></ul>
+<div style="clear:both;"></div>
+<table class="navbox noprint collapsible autocollapse nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;"><tbody><tr><th colspan="3" style="text-align:center;width:100%;"><div style="float:left; width:6em; vertical-align:middle; text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Pol%C3%ADtica_alem%C3%A3" title="Predefinição:Política alemã"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Pol%C3%ADtica_alem%C3%A3&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div></div> <span class="" style="font-size:110%;"><a href="/wiki/Alemanha" title="Alemanha"><img alt="Alemanha" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> <a href="/wiki/Pol%C3%ADtica_da_Alemanha" title="Política da Alemanha">Política alemã</a></span> </th>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b><a href="/wiki/Constitui%C3%A7%C3%A3o" title="Constituição">Constituição</a></b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<a href="/wiki/Grundgesetz" class="mw-redirect" title="Grundgesetz">Grundgesetz</a></td><td rowspan="9" style="vertical-align:middle; padding-left:7px; width:0%;"><div class="floatright"><a href="/wiki/Ficheiro:LocationGermany.png" class="image" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/LocationGermany.png/175px-LocationGermany.png" width="175" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/d/de/LocationGermany.png 1.5x" data-file-width="250" data-file-height="115" /></a></div></td>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b><a href="/wiki/Presidente_da_Alemanha" title="Presidente da Alemanha">Presidentes</a></b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<a href="/wiki/Christian_Wulff" title="Christian Wulff">Christian Wulff</a>&#160;• <a href="/wiki/Joachim_Gauck" title="Joachim Gauck">Joachim Gauck</a>&#160;• <a href="/wiki/Frank-Walter_Steinmeier" title="Frank-Walter Steinmeier">Frank-Walter Steinmeier</a></td>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b><a href="/wiki/Primeiros-ministros" class="mw-redirect" title="Primeiros-ministros">Primeiros-ministros</a></b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<a href="/wiki/Helmut_Kohl" title="Helmut Kohl">Helmut Kohl</a>&#160;• <a href="/wiki/Gerhard_Schr%C3%B6der" title="Gerhard Schröder">Gerhard Schröder</a>&#160;• <a href="/wiki/Angela_Merkel" title="Angela Merkel">Angela Merkel</a></td>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b><a href="/wiki/Governos" class="mw-redirect" title="Governos">Governos</a></b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<a href="/wiki/Quinto_Gabinete_Kohl" title="Quinto Gabinete Kohl">Governo Kohl V</a>&#160;• <a href="/wiki/Primeiro_Gabinete_Schr%C3%B6der" title="Primeiro Gabinete Schröder">Governo Schröder I</a>&#160;• <a href="/wiki/Segundo_Gabinete_Schr%C3%B6der" title="Segundo Gabinete Schröder">Governo Schröder II</a>&#160;• <a href="/wiki/Primeiro_Gabinete_Merkel" title="Primeiro Gabinete Merkel">Governo Merkel I</a>&#160;• <a href="/wiki/Segundo_Gabinete_Merkel" title="Segundo Gabinete Merkel">Governo Merkel II</a>&#160;• <a href="/wiki/Governo_Merkel_III" title="Governo Merkel III">Governo Merkel III</a></td>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b><a href="/wiki/Parlamento" title="Parlamento">Parlamento</a></b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<a href="/wiki/Bundestag" title="Bundestag">Bundestag</a></td>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b>Partidos</b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<a href="/wiki/Uni%C3%A3o_Democrata-Crist%C3%A3" title="União Democrata-Cristã">União Democrata-Cristã</a>&#160;• <a class="mw-selflink selflink">União Social-Cristã</a>&#160;• <a href="/wiki/Partido_Social-Democrata_da_Alemanha" title="Partido Social-Democrata da Alemanha">Partido Social-Democrata da Alemanha</a>&#160;• <a href="/wiki/Alternativa_para_a_Alemanha" title="Alternativa para a Alemanha">Alternativa para a Alemanha</a>&#160;• <a href="/wiki/Alian%C3%A7a_90/Os_Verdes" title="Aliança 90/Os Verdes">Aliança 90/Os Verdes</a>&#160;• <a href="/wiki/A_Esquerda" title="A Esquerda">A Esquerda</a>&#160;• <a href="/wiki/Partido_Democr%C3%A1tico_Liberal" title="Partido Democrático Liberal">Partido Democrático Liberal</a></td>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b>Eleições presidenciais</b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<a href="/wiki/Elei%C3%A7%C3%A3o_presidencial_na_Alemanha_em_2010" title="Eleição presidencial na Alemanha em 2010">2010</a>&#160;• <a href="/w/index.php?title=Elei%C3%A7%C3%A3o_presidencial_na_Alemanha_em_2012&amp;action=edit&amp;redlink=1" class="new" title="Eleição presidencial na Alemanha em 2012 (página não existe)">2012</a>&#160;• <a href="/w/index.php?title=Elei%C3%A7%C3%A3o_presidencial_na_Alemanha_em_2017&amp;action=edit&amp;redlink=1" class="new" title="Eleição presidencial na Alemanha em 2017 (página não existe)">2017</a></td>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b>Eleições federais</b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<a href="/wiki/Elei%C3%A7%C3%A3o_federal_na_Alemanha_em_2013" title="Eleição federal na Alemanha em 2013">2013</a>&#160;• <a href="/wiki/Elei%C3%A7%C3%A3o_federal_na_Alemanha_em_2017" title="Eleição federal na Alemanha em 2017">2017</a></td>
+</tr><tr><th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><b>Subdivisões</b></th><td colspan="1" class="" style="text-align:left;width:100%;font-size:95%;">
+<a href="/wiki/Estados_da_Alemanha" title="Estados da Alemanha">Estados da Alemanha</a></td>
+</tr><tr><td style="text-align:center;background:#ddddff;" colspan="3">
+<a href="/wiki/Alemanha" title="Alemanha">Alemanha</a></td>
+</tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20180911131038
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.700 seconds
+Real time usage: 0.753 seconds
+Preprocessor visited node count: 8877/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 124905/2097152 bytes
+Template argument size: 23123/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.037/10.000 seconds
+Lua memory usage: 1.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  521.494      1 -total
+ 73.37%  382.639      1 Predefinição:Info/Partido_político
+ 71.89%  374.894      1 Predefinição:Info
+ 11.96%   62.380    109 Predefinição:Info/Partido_político/lugares
+ 11.32%   59.015      1 Predefinição:Política_alemã
+ 10.78%   56.209      2 Predefinição:Categorização_AD_e_AB_de_outras_wikis
+ 10.76%   56.088      1 Predefinição:Navbox
+  6.50%   33.919      1 Predefinição:Navbox/core
+  1.88%    9.810    109 Predefinição:Ord
+  1.71%    8.916    109 Predefinição:Both
+-->
+
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:58819-0!canonical and timestamp 20180911131037 and revision id 51832496
+ -->
+</div><noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=União_Social-Cristã&amp;oldid=51832496">https://pt.wikipedia.org/w/index.php?title=União_Social-Cristã&amp;oldid=51832496</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Partidos_pol%C3%ADticos_da_Alemanha" title="Categoria:Partidos políticos da Alemanha">Partidos políticos da Alemanha</a></li><li><a href="/wiki/Categoria:Democracia_crist%C3%A3" title="Categoria:Democracia cristã">Democracia cristã</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categoria oculta: <ul><li><a href="/wiki/Categoria:!Artigos_bons_na_Wikip%C3%A9dia_em_alem%C3%A3o" title="Categoria:!Artigos bons na Wikipédia em alemão">!Artigos bons na Wikipédia em alemão</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Uni%C3%A3o+Social-Crist%C3%A3" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Uni%C3%A3o+Social-Crist%C3%A3" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Uni%C3%A3o_Social-Crist%C3%A3" title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li><li id="ca-talk"><span><a href="/wiki/Discuss%C3%A3o:Uni%C3%A3o_Social-Crist%C3%A3" rel="discussion" title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Uni%C3%A3o_Social-Crist%C3%A3">Ler</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;veaction=edit" title="Editar esta página [v]" accesskey="v">Editar</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar código-fonte</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=history" title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Mais</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Pesquisar" name="title"/><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navegação</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Colaboração</h3>
+			<div class="body">
+								<ul>
+					<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Uni%C3%A3o+Social-Crist%C3%A3">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Uni%C3%A3o+Social-Crist%C3%A3&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Noutros projetos</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Christlich-Soziale_Union_in_Bayern" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Ferramentas</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Uni%C3%A3o_Social-Crist%C3%A3" title="Lista de todas as páginas que contêm hiperligações para esta [j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Uni%C3%A3o_Social-Crist%C3%A3" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém hiperligações [k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;oldid=51832496" title="Hiperligação permanente para esta revisão da página">Hiperligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q49763" title="Hiperligação para o elemento do repositório de dados [g]" accesskey="g">Elemento Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Uni%C3%A3o_Social-Crist%C3%A3&amp;id=51832496" title="Informação sobre como citar esta página">Citar esta página</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Noutras línguas</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Christlich-Soziale_Union_in_Bayern" title="Christlich-Soziale Union in Bayern — Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A" title="الاتحاد الاجتماعي المسيحي — árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Xristian_Sosial_%C4%B0ttifaq%C4%B1_(Bavariya)" title="Xristian Sosial İttifaqı (Bavariya) — azerbaijano" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Christlich-Soziale_Union_in_Bayern" title="Christlich-Soziale Union in Bayern — Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A5%D1%80%D1%8B%D1%81%D1%86%D1%96%D1%8F%D0%BD%D1%81%D0%BA%D0%B0-%D1%81%D0%B0%D1%86%D1%8B%D1%8F%D0%BB%D1%8C%D0%BD%D1%8B_%D1%81%D0%B0%D1%8E%D0%B7_%D1%83_%D0%91%D0%B0%D0%B2%D0%B0%D1%80%D1%8B%D1%96" title="Хрысціянска-сацыяльны саюз у Баварыі — bielorrusso" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A5%D0%A1%D0%A1" title="ХСС — Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%8F%D0%BD%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D1%8A%D1%8E%D0%B7" title="Християнсоциален съюз — búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Christlich-Soziale_Union_in_Bayern" title="Christlich-Soziale Union in Bayern — bretão" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Uni%C3%B3_Social_Cristiana_de_Baviera" title="Unió Social Cristiana de Baviera — catalão" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/K%C5%99es%C5%A5ansko-soci%C3%A1ln%C3%AD_unie_Bavorska" title="Křesťansko-sociální unie Bavorska — checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/CSU" title="CSU — dinamarquês" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="artigo bom"><a href="https://de.wikipedia.org/wiki/Christlich-Soziale_Union_in_Bayern" title="Christlich-Soziale Union in Bayern — alemão" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Yewiya_X%C4%B1ristiyan-Sosyale_(Almanya)" title="Yewiya Xıristiyan-Sosyale (Almanya) — Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Christlich-Soziale_Union_in_Bayern" title="Christlich-Soziale Union in Bayern — baixo sorábio" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%B1%CE%BD%CE%BF%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BA%CE%AE_%CE%88%CE%BD%CF%89%CF%83%CE%B7_%CE%92%CE%B1%CF%85%CE%B1%CF%81%CE%AF%CE%B1%CF%82" title="Χριστιανοκοινωνική Ένωση Βαυαρίας — grego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Christian_Social_Union_in_Bavaria" title="Christian Social Union in Bavaria — inglês" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kristan-Sociala_Unio_en_Bavario" title="Kristan-Sociala Unio en Bavario — esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Uni%C3%B3n_Social_Cristiana_de_Baviera" title="Unión Social Cristiana de Baviera — espanhol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bavariako_Batasun_Kristau_eta_Soziala" title="Bavariako Batasun Kristau eta Soziala — basco" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87_%D8%B3%D9%88%D8%B3%DB%8C%D8%A7%D9%84-%D9%85%D8%B3%DB%8C%D8%AD%DB%8C_%D8%A8%D8%A7%DB%8C%D8%B1%D9%86" title="اتحادیه سوسیال-مسیحی بایرن — persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Baijerin_kristillissosiaalinen_unioni" title="Baijerin kristillissosiaalinen unioni — finlandês" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Union_chr%C3%A9tienne-sociale_en_Bavi%C3%A8re" title="Union chrétienne-sociale en Bavière — francês" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Uni%C3%B3n_Social_Cristi%C3%A1_de_Baviera" title="Unión Social Cristiá de Baviera — galego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Kr%C5%A1%C4%87ansko-socijalna_unija_(Njema%C4%8Dka)" title="Kršćansko-socijalna unija (Njemačka) — croata" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/K%C5%99es%C4%87ansko-socialna_unija_w_Bayerskej" title="Křesćansko-socialna unija w Bayerskej — alto sorábio" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Bajor_Kereszt%C3%A9nyszoci%C3%A1lis_Uni%C3%B3" title="Bajor Keresztényszociális Unió — húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Uni_Sosial_Kristen_di_Bayern" title="Uni Sosial Kristen di Bayern — indonésio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Cristan_Social_Union_in_Bavaria" title="Cristan Social Union in Bavaria — interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Unione_Cristiano-Sociale_in_Baviera" title="Unione Cristiano-Sociale in Baviera — italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E7%A4%BE%E4%BC%9A%E5%90%8C%E7%9B%9F" title="キリスト教社会同盟 — japonês" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%98%E1%83%98%E1%83%A1_%E1%83%A5%E1%83%A0%E1%83%98%E1%83%A1%E1%83%A2%E1%83%98%E1%83%90%E1%83%9C-%E1%83%A1%E1%83%9D%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%99%E1%83%90%E1%83%95%E1%83%A8%E1%83%98%E1%83%A0%E1%83%98" title="ბავარიის ქრისტიან-სოციალური კავშირი — georgiano" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8_%EA%B8%B0%EB%8F%85%EA%B5%90%EC%82%AC%ED%9A%8C%EC%97%B0%ED%95%A9" title="바이에른 기독교사회연합 — coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Yek%C3%AEtiya_Xiristiyan-Sosyal" title="Yekîtiya Xiristiyan-Sosyal — curdo" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Unio_socialis_Christiana_Bavariensis" title="Unio socialis Christiana Bavariensis — latim" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Krik%C5%A1%C4%8Dioni%C5%B3_socialin%C4%97_s%C4%85junga" title="Krikščionių socialinė sąjunga — lituano" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Christlich-Soziale_Union_in_Bayern" title="Christlich-Soziale Union in Bayern — baixo-alemão" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Christlich-Soziale_Union" title="Christlich-Soziale Union — holandês" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Christlich-Soziale_Union_in_Bayern" title="Christlich-Soziale Union in Bayern — norueguês nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Christlich-Soziale_Union_in_Bayern" title="Christlich-Soziale Union in Bayern — norueguês" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/CSU" title="CSU — Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Unia_Chrze%C5%9Bcija%C5%84sko-Spo%C5%82eczna_w_Bawarii" title="Unia Chrześcijańsko-Społeczna w Bawarii — polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Uniunea_Cre%C8%99tin-Social%C4%83_din_Bavaria" title="Uniunea Creștin-Socială din Bavaria — romeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%BE-%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Христианско-социальный союз — russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/CSU" title="CSU — servo-croata" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Christian_Social_Union_of_Bavaria" title="Christian Social Union of Bavaria — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kres%C5%A5ansko-soci%C3%A1lna_%C3%BAnia_Bavorska" title="Kresťansko-sociálna únia Bavorska — eslovaco" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%88%D1%9B%D0%B0%D0%BD%D1%81%D0%BA%D0%BE-%D1%81%D0%BE%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0_%D1%83%D0%BD%D0%B8%D1%98%D0%B0_%D0%91%D0%B0%D0%B2%D0%B0%D1%80%D1%81%D0%BA%D0%B5" title="Хришћанско-социјална унија Баварске — sérvio" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Christelk-Soziale_Union" title="Christelk-Soziale Union — Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/CSU" title="CSU — sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hristiyan_Sosyal_Birli%C4%9Fi" title="Hristiyan Sosyal Birliği — turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%BE-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Християнсько-соціальний союз — ucraniano" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_X%C3%A3_h%E1%BB%99i_Kit%C3%B4_gi%C3%A1o_Bayern" title="Liên minh Xã hội Kitô giáo Bayern — vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E4%BC%90%E5%88%A9%E4%BA%9A%E5%9F%BA%E7%9D%A3%E6%95%99%E7%A4%BE%E4%BC%9A%E8%81%94%E7%9B%9F" title="巴伐利亚基督教社会联盟 — chinês" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q49763#sitelinks-wikipedia" title="Editar hiperligações interlínguas" class="wbc-editpage">Editar hiperligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Esta página foi editada pela última vez às 11h49min de 17 de abril de 2018.</li>
+								<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://foundation.wikimedia.org/wiki/Condições_de_Uso">condições de utilização</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Declaração sobre ''cookies''</a></li>
+								<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Uni%C3%A3o_Social-Crist%C3%A3&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.700","walltime":"0.753","ppvisitednodes":{"value":8877,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":124905,"limit":2097152},"templateargumentsize":{"value":23123,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  521.494      1 -total"," 73.37%  382.639      1 Predefinição:Info/Partido_político"," 71.89%  374.894      1 Predefinição:Info"," 11.96%   62.380    109 Predefinição:Info/Partido_político/lugares"," 11.32%   59.015      1 Predefinição:Política_alemã"," 10.78%   56.209      2 Predefinição:Categorização_AD_e_AB_de_outras_wikis"," 10.76%   56.088      1 Predefinição:Navbox","  6.50%   33.919      1 Predefinição:Navbox/core","  1.88%    9.810    109 Predefinição:Ord","  1.71%    8.916    109 Predefinição:Both"]},"scribunto":{"limitreport-timeusage":{"value":"0.037","limit":"10.000"},"limitreport-memusage":{"value":1419136,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20180911131038","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw2163"});});</script>
+	</body>
+</html>
