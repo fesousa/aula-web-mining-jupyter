@@ -1,0 +1,700 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <title>Minist&eacute;rio do Esporte</title>
+        <!-- inclusão do módulo de cabeçalho -->
+      <base href="http://www.esporte.gov.br/index.php/noticias/24-lista-noticias/50981-tecnico-da-selecao-feminina-exalta-nivel-do-desafio-das-campeas-de-handebol" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Ministério do Esporte;Esporte;esporte;Bolsa Atleta;Segundo Tempo" />
+  <meta name="author" content="Breno Barros Pereira" />
+  <meta name="description" content="Ministério do Esporte, Esporte" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Técnico da Seleção Feminina exalta nível do 'Desafio das Campeãs' de Handebol</title>
+  <link href="/templates/portal-me-interno/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://www.esporte.gov.br/index.php/component/search/?Itemid=218&amp;catid=24&amp;id=50981&amp;format=opensearch" rel="search" title="Buscar MINISTÉRIO DO ESPORTE" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/editors/jckeditor/typography/typography2.php" type="text/css" />
+  <link rel="stylesheet" href="http://www.esporte.gov.br/plugins/content/itpshare/style.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+
+/*===  EASY GOOGLE ANALYTICS : START TRACKING CODE  ===*/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-46880116-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+/*===  EASY GOOGLE ANALYTICS : END TRACKING CODE  ===*/
+
+  </script>
+
+
+    <!-- Le styles -->
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin'rel='stylesheet' type='text/css'>
+    <link href="/templates/portal-me-interno/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/templates/portal-me-interno/css/template.css" rel="stylesheet" type="text/css" media="screen" >
+    <link href="/templates/portal-me-interno/css/templateContrast.css" rel="alternate stylesheet" type="text/css" media="screen" title="contraste">
+    <link href="/templates/portal-me-interno/css/plg_fontarticle01.css" rel="stylesheet">
+    <!--[if IE 7]> <link href="/templates/portal-me-interno//css/IE7.css" rel="stylesheet" type="text/css" media="screen"> <![endif]-->
+    <!--[if IE 7]> <link href="/templates/portal-me-interno//css/IE7Contraste.css" rel="alternate stylesheet" type="text/css" media="screen" title="contraste"> <![endif]-->
+    
+    <!--[if IE 9]> <link href="/templates/portal-me-interno//css/menu.css" rel="stylesheet" type="text/css" media="screen"> <![endif]-->
+    <!--[if IE 9]> <link href="/templates/portal-me-interno//css/menuContraste.css" rel="alternate stylesheet" type="text/css" media="screen" title="contraste"> <![endif]-->
+     
+    <!--[if IE 8]> <link href="/templates/portal-me-interno//css/menu.css" rel="stylesheet" type="text/css" media="screen"> <![endif]-->
+    
+
+    <link href="/templates/portal-me-interno/css/bootstrap-responsive.min.css" rel="stylesheet"> 
+     
+    
+    
+    <script src="/templates/portal-me-interno/js/contraste.js" type="text/javascript"></script>
+    
+    <script src="/templates/portal-me-interno/js/article_font.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		window.addEvent('load', function() {
+			new JCaption('img.caption');
+		});
+	</script>
+	<script type='text/javascript'>
+		var tgs = new Array('body','div','p','tr','td','table','ul','ol','li','span','th',' span12',' span9',' span4',' span3','a',' h3','h2','h1','label'); 
+	</script>
+	<script type='text/javascript'>init_common_datos(15,30,6,"px",1);</script>
+	<script type='text/javascript'>init_individual_datos(1);</script>
+    <script text="text/jasvascript">
+			function alterarTextoContraste(contraste) {
+				if(contraste == 'alto') {
+					document.getElementById('linkContrasteAlto').style.display = 'none';
+					document.getElementById('linkContrasteNormal').style.display = '';
+				} else if(contraste == 'normal') {
+					document.getElementById('linkContrasteAlto').style.display = '';
+					document.getElementById('linkContrasteNormal').style.display = 'none';
+				}
+			}
+		</script>
+
+    
+    
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/templates/portal-me-interno/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/templates/portal-me-interno/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/templates/portal-me-interno/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/templates/portal-me-interno/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/templates/portal-me-interno/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="/templates/portal-me-interno/ico/favicon.png">
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin'rel='stylesheet' type='text/css'> 
+    
+    
+    
+</head>
+<body id="articlepxfontsize1">
+
+
+    	<!----------------------------------------------Inclusão BarraGov--------------------------------------------------------------------------> 
+    			<div class="moduletable">
+					
+
+<div class="custom"  >
+	<div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+	<ul id="menu-barra-temp" style="list-style:none;">
+		<li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED">
+			<a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+		<li>
+			<a href="http://epwg.governoeletronico.gov.br/barra/atualize.html" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Atualize sua Barra de Governo</a></li>
+	</ul>
+</div>
+</div>
+		</div>
+	
+        <!----------------------------------------------Final BarraGov--------------------------------------------------------------------------> 
+              
+              
+              
+        
+     	<!----------------------------------------------Acessibilidade - Topo ----------------------------------------------------------------------------->    		
+        <div class="ir acessibilidade">
+         
+       
+        <!----------------------------------------------Atalhos - Acessibilidade-------------------------------------------------------------------->
+        <div class="container divAcessibilidade">		
+        <a href="#conteudo" style="margin-left:10px" accesskey="1">Ir para conteúdo </a><span class="irAtalhos">1</span> 
+        <a href="#menu" style="margin-left:10px" title="Ir para menu" accesskey="2">Ir para menu </a><span class="irAtalhos">2</span>
+        <a href="#busca" style="margin-left:10px" title="Ir para a Busca" accesskey="3">Ir para a busca </a><span class="irAtalhos">3</span>
+        <a href="#rodape" style="margin-left:10px" title="Ir para o radapé" accesskey="4">Ir para o rodapé </a><span class="irAtalhos">4</span>
+        <a href="http://www.esporte.gov.br" style="margin-left:10px; display:none" title="Página Inicial" name="Página Inicial" accesskey="5">Página Inicial</a>
+        <a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/mapa-do-site" style="margin-left:10px; display:none" title="Mapa do Site" name="Mapa do Site" accesskey="8">Mapa do Site</a>
+        <a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/ouvidoria" style="margin-left:10px; display:none" title="Ouvidoria" name="Ouvidoria" accesskey="9">Ouvidoria</a>
+        <a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/49434-acessibilidade" style="margin-left:10px; display:none" title="Acessibilidade" name="Acessibilidade" accesskey="0">Acessibilidade</a> 
+       
+       
+       <!----------------------------------------------Contrast-------------------------------------------------------------------->
+        <a href="/index.php/institucional/o-ministerio/mapa-do-site" style="float:right;margin-right:20px; font-size:9px" title="Mapa do Site">MAPA DO SITE</a>        
+        <a href="#" accesskey="6" onClick="setActiveStyleSheet('contraste', 1); alterarTextoContraste('alto'); return false;" id="linkContrasteAlto" style="float:right;margin-right:20px; font-size:9px" title="Alto Contraste">ALTO CONTRASTE</a>
+        <a href="#" accesskey="7" onClick="setActiveStyleSheet('global', 1); alterarTextoContraste('normal'); return false;" id="linkContrasteNormal" style="float:right;margin-right:20px; font-size:9px; display: none;" title="Contraste Normal">CONTRASTE NORMAL</a>
+        
+        <a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/49434-acessibilidade" target="_blank" style="float:right; margin-right:20px; font-size:9px" title="Acessibilidade">ACESSIBILIDADE</a><br>
+        <span class="plg_C" ></span>
+        
+        <!--------------------------------Pontilhado Atalhos - Acessibilidade------------------------------------------------------------>
+        <div class="pontilhado"></div>
+        <!--------------------------------Final Pontilhado Atalhos - Acessibilidade------------------------------------------------------>
+        
+        </div>
+        <!--------------------------------Final Atalhos - Acessibilidade----------------------------------------------------------------->
+        
+        <div class="row-fluid container finalAcessibilidade">        
+       
+       
+        <div style="float:right; height:80px; width:50%">        
+      
+        <!----------------------------------------------Módulo Busca--------------------------------------------------------------------> 
+        <div  class="modBusca" id="busca">
+        		<div class="moduletable">
+					<form action="/index.php/noticias" method="post">
+	<div class="search">
+		<input name="searchword" accesskey="3" id="mod-search-searchword" maxlength="50"  class="inputbox" type="text" size="20" value="buscar no site"  onblur="if (this.value=='') this.value='buscar no site';" onfocus="if (this.value=='buscar no site') this.value='';" /><input type="image" value="OK" class="button" id="btPesquisa" src="/images/iconSearch.png" onclick="this.form.searchword.focus();"/>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="218" />
+	</div>
+</form>
+		</div>
+	
+        </div>   
+        <!----------------------------------------------Final Módulo Busca---------------------------------------------------------------> 
+        
+        
+        <!----------------------------------------------Módulo Redes Sociais-------------------------------------------------------------> 
+         <div class="modRedesSociais">
+         		<div class="moduletable">
+					<div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/1" target="_blank"
+							title="Facebook">
+							<img
+								src="http://www.esporte.gov.br/images/banners/icone-facebook.png"
+								alt="Facebook"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/2" target="_blank"
+							title="Twitter">
+							<img
+								src="http://www.esporte.gov.br/images/banners/icc.png"
+								alt="Twitter"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/7" target="_blank"
+							title="Flickr">
+							<img
+								src="http://www.esporte.gov.br/images/banners/flik.png"
+								alt="Flickr"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/3" target="_blank"
+							title="Youtube">
+							<img
+								src="http://www.esporte.gov.br/images/banners/icone-youtube.png"
+								alt="Youtube"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/8" target="_blank"
+							title="Instagram">
+							<img
+								src="http://www.esporte.gov.br/images/banners/insta.png"
+								alt="Instagram"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/9" target="_blank"
+							title="Google+">
+							<img
+								src="http://www.esporte.gov.br/images/banners/g.png"
+								alt="Google+"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+	
+         </div>
+         </div>
+		<!----------------------------------------Final Módulo Redes Sociais------------------------------------------------------------->
+		
+        
+        <!----------------------------------------------Logo Ministério-----------------------------------------------------------------> 
+		<a href="/" style="text-decoration:none" title="Ministério do Esporte">
+        <span id="portal-title2">Ministério do</span><br>
+	    <span id="portal-title">Esporte</span>
+        </a>
+                    
+        </div> 
+        </div>
+        <!----------------------------------------------Final Logo Ministério------------------------------------------------------------->  
+    
+    
+    	<!----------------------------------------------Submenu--------------------------------------------------------------------------->
+    			<div class="moduletable">
+					
+
+<div class="custom"  >
+	<div class="modSubMenu">
+	<div class="container" style="font-family:Lato; font-size:12px; padding-top:2px;">
+		<p align="right">
+			<a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/ouvidoria/a-ouvidoria" target="parent">&nbsp;Ouvidoria</a> &nbsp; |&nbsp;<a href="/index.php/institucional/o-ministerio/45412-contatos">Contato</a> | &nbsp; <a href="/index.php/institucional/o-ministerio/sala-de-imprensa">&Aacute;rea de Imprensa</a></p>
+	</div>
+</div>
+</div>
+		</div>
+	
+    	<!----------------------------------------------Final Submenu----------------------------------------------------------------------->
+    
+    	
+        <!----------------------------------------------Transição de Imagens ------------------------------------------------------------------>
+        <div style="background-image: url();; margin-bottom:-350px; height:300px">
+        </div>
+    	<!---------------------------------------------- Final Transição de Imagens ------------------------------------------------------------>
+    
+        
+        <!----------------------------------------------Estrutura do Portal--------------------------------------------------------------------->
+        <div class="container">
+            <div class="row-fluid">
+                <div class="span12" id="conteudo">
+                    <div class="navbar">
+                        <div class="navbar-inner">
+                            <div class="container" id="menu">
+                                <!-- Inclusão do módulo de menu do topo -->
+                                  
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+            </div>
+        </div>
+       
+    
+    <!----------------------------------------------Transição de Imagens ------------------------------------------------------------------>
+       
+   		<div style="background-image: url('/images/arte/arte6.jpg');background-repeat:repeat-x; width:100%;; margin-bottom:-300px; height:300px">
+        </div>	
+    <!----------------------------------------------Final Transição de Imagens ----------------------------------------------------------------->
+    
+    
+    
+    
+    <!----------------------------------------------Menu Secretarias------------------------------------------------------------------>
+    		<div class="moduletable">
+					
+
+<div class="custom"  >
+	<div class="container menuSuperior">
+	<ul>
+		<li>
+			<a class="acessoInformacao" href="/index.php/institucional/acesso-a-informacao" title="Acesso à Informação">Acesso &agrave; Informa&ccedil;&atilde;o</a></li>
+		<li>
+			<a class="oMinisterio" href="/index.php/institucional/o-ministerio" title="O Ministério">O Minist&eacute;rio</a></li>
+		<li>
+			<a class="secretariaExecutiva" href="/index.php/institucional/secretaria-executiva" title="Secretaria Executiva">Secretaria Executiva</a></li>
+		<li>
+			<a class="Snelis" href="/index.php/institucional/esporte-educacao-lazer-e-inclusao-social" title="Esporte - Educação - Lazer e Inclusão Social">Esporte, Educa&ccedil;&atilde;o, Lazer e Inclus&atilde;o Social</a></li>
+		<li>
+			<a class="Snear" href="/index.php/institucional/alto-rendimento" title="Alto Rendimento">Alto Rendimento</a></li>
+		<li>
+			<a class="Snfut" href="/index.php/institucional/futebol-e-direitos-do-torcedor" title="Futebol e Direitos do Torcedor">Futebol e Direitos do Torcedor</a></li>
+	</ul>
+</div>
+</div>
+		</div>
+	     
+    <!----------------------------------------------FInal Menu Secretarias------------------------------------------------------------>
+    
+    
+    
+    
+    
+    <div class="container"> 
+     <div id="content">  
+     <div class="container">
+        
+    </div>     
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="span3" >
+                    <div class="menulateral">
+                    
+                    <!-- Inclusão do módulo de menu do Menu Programa em Ação -->
+                    <div>
+                    		<div class="moduletable listaNoticias">
+					<h3>Notícias</h3>
+					
+<ul class="menu">
+<li class="item-277"><a href="/index.php/institucional/o-ministerio/sala-de-imprensa" >Imprensa</a></li><li class="item-279"><a href="/index.php/noticias" >Notícias</a></li><li class="item-280"><a href="http://www.esporte.gov.br/index.php/institucional/acesso-a-informacao/institucional/agenda-do-ministro" >Agenda do Ministro </a></li><li class="item-281"><a href="http://www.flickr.com/photos/ministeriodoesporte" target="_blank" >Imagens</a></li><li class="item-282"><a href="/index.php/institucional/o-ministerio/sala-de-imprensa/83-ministerio-do-esporte/institucional/o-ministerio/sala-de-imprensa2/192-publicacoes/noticias" title="Publicações" >Publicações</a></li><li class="item-283"><a href="/index.php/radio-esporte-2" title="Rádio Esporte" >Rádio Esporte</a></li><li class="item-284"><a href="/index.php/multimidia/69-lista-multimidia/357-tv-esporte" title="TV Esporte" >TV Esporte</a></li><li class="item-285"><a href="/index.php/institucional/o-ministerio/sala-de-imprensa/controle" title="Controle de Ações de Comunicação" >Controle de Ações de Comunicação</a></li><li class="item-1137"><a class=" none" href="/index.php/noticias-toronto-2015" title=" " >Notícias Toronto 2015</a></li></ul>
+		</div>
+	
+                    </div>                                       
+                    </div>
+                   
+                    <br>
+                    <div class="menulateral">
+                    <div class="areaRestrita">
+                    		<div class="moduletable areaRestrita">
+					
+<ul class="menu">
+<li class="item-151"><a href="/index.php/area-restrita" title="Área Restrita" >Área Restrita</a></li></ul>
+		</div>
+	
+                    </div>
+                    </div>
+                    
+                   <br><br>
+
+ 					<!-- Inclusão do módulo Notícias do Portal da Copa 2014 -->
+                    <div>
+                     
+                    </div>
+                    
+                
+               	</div>
+                <div class="span9">
+                <div class="transparent">	
+                    <div class="row-fluid">
+                        <div class="span12">
+                        
+                        		<div class="row-fluid conteudo">
+									<div class="span12">
+												<div class="moduletable">
+					<div class="newsflash">
+	
+
+
+<div class="divImgInfo" style="margin-left:-20px">
+	<img alt="" border="0" src="/images/banners/noticias.png" /></div>
+<div class="divInfo">
+	<div>
+		&nbsp;</div>
+	Conhe&ccedil;a os principais programas e a&ccedil;&otilde;es do Minist&eacute;rio do Esporte.<br />
+	Videorreportagens, textos e fotos mostram como os projetos s&atilde;o colocados em pr&aacute;tica e os resultados alcan&ccedil;ados em todo o pa&iacute;s.<br />
+	<br />
+	<p align="left">
+		<span class="btInfo">Informa&ccedil;&otilde;es:</span> <img alt="" border="0" src="/images/banners/tel.png" /> <span class="dados">(61) 3217-1875<img alt="" border="0" src="/images/banners/email.png" /><span style="font-size:11px">E-mail: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy35887 = '&#105;mpr&#101;ns&#97;' + '&#64;';
+ addy35887 = addy35887 + '&#101;sp&#111;rt&#101;' + '&#46;' + 'g&#111;v' + '&#46;' + 'br';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy35887 + '\'>');
+ document.write(addy35887);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>O endereço de e-mail address está sendo protegido de spambots. Você precisa ativar o JavaScript enabled para vê-lo.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span></span></p>
+	<p align="left">
+		<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+</div>
+
+
+
+</div>
+		</div>
+	
+									</div>
+								</div>
+                                
+                                <div class="row-fluid">
+                                	<div class="span12">
+                                        <!-- Inclusão do módulo de navegacao -->
+                                        		<div class="moduletable navegacao">
+					
+<div class="breadcrumbs navegacao">
+<a href="/" class="pathway">Início</a> <img src="/media/system/images/arrow.png" alt=""  /> <a href="/index.php/noticias" class="pathway">Notícias</a> <img src="/media/system/images/arrow.png" alt=""  /> <a href="/index.php/noticias/24-lista-noticias" class="pathway">Lista Notícias</a></div>
+		</div>
+	
+                                    </div>
+        							
+                                </div>
+                                
+                                
+								<div class="row-fluid">
+									<div class="span12">
+										
+<div id="system-message-container">
+</div>
+										<div class="item-page">
+
+	<h2>
+			Técnico da Seleção Feminina exalta nível do 'Desafio das Campeãs' de Handebol		</h2>
+
+
+
+
+
+
+	<dl class="article-info">
+	<dt class="article-info-term">Detalhes</dt>
+	<dd class="published">
+	        Quarta, 03 Junho 2015 11:05    
+	</dd>
+	</dl>
+
+
+
+<p>
+	O Gin&aacute;sio Poliesportivo Adib Moys&eacute;s Dib, em S&atilde;o Bernardo do Campo, interior de S&atilde;o Paulo, vai receber nos dias 12 e 14 de junho o &#39;Desafio das Campe&atilde;s&#39; de Handebol. Os jogos ser&atilde;o entre as Sele&ccedil;&otilde;es Femininas do Brasil, atual campe&atilde; Mundial, e da Noruega, atual campe&atilde; Ol&iacute;mpica e Europeia. Antes disso, por&eacute;m, ambas v&atilde;o passar por um per&iacute;odo de treinamento na Escola de Educa&ccedil;&atilde;o F&iacute;sica do Ex&eacute;rcito, no Rio de Janeiro.<br />
+	<br />
+	Para o t&eacute;cnico da Sele&ccedil;&atilde;o Brasileira, o dinamarqu&ecirc;s Morten Soubak, a fase de treinamentos ser&aacute; muito importante como prepara&ccedil;&atilde;o para os Jogos Pan-Americanos de Toronto e para o Mundial da Dinamarca. &ldquo;Ser&aacute; uma fase muito forte antes de Toronto e tamb&eacute;m conta como prepara&ccedil;&atilde;o para o Mundial. &Eacute; o tipo de amistoso que eu gosto. Vamos treinar juntos e fazer dois jogos. Isso vai ser importante para ambas equipes. Todos sabemos o poder da Noruega. Ser&atilde;o duas partidas de alt&iacute;ssimo n&iacute;vel que vamos apresentar para o povo brasileiro&rdquo;, declarou.<br />
+	<br />
+	A armadora esquerda Jaqueline Anast&aacute;cio, que jogou por dois anos na Noruega e est&aacute; convocada para o Desafio, exaltou a grande for&ccedil;a das advers&aacute;rias. &ldquo;Elas t&ecirc;m a defesa forte, contra-ataque muito r&aacute;pido e sabemos que s&atilde;o jogadoras agressivas. Joguei contra todas na Noruega. Elas s&atilde;o muito boas e com caracter&iacute;sticas distintas. Para n&oacute;s ser&atilde;o dois jogos chave para nos prepararmos para os Jogos Pan-Americanos de Toronto e para o Mundial da Dinamarca&rdquo;, disse.<br />
+	<br />
+	A Sele&ccedil;&atilde;o Brasileira chega ao Rio de Janeiro na sexta-feira (5) e d&aacute; in&iacute;cio aos treinamentos no s&aacute;bado (6). Na quinta-feira (11) as duas equipes seguem para o ABC Paulista.<br />
+	<br />
+	Os dois confrontos do &#39;Desafio das Campe&atilde;s&#39; ser&atilde;o no Gin&aacute;sio Poliesportivo Adib Moys&eacute;s Dib, em S&atilde;o Bernardo do Campo. A primeira partida ser&aacute; no dia 12, &agrave;s 17h30, com transmiss&atilde;o dos canais SporTV. J&aacute; o segundo jogo ser&aacute; dia no 14, &agrave;s 10h, e ter&aacute; transmiss&atilde;o ao vivo pelo programa Esporte Espetacular, da Rede Globo. O segundo duelo ter&aacute; tempo reduzido de 20 minutos cada tempo.<br />
+	<br />
+	<strong>Servi&ccedil;o:</strong><br />
+	Evento: Desafio das Campe&atilde;s de Handebol - Brasil x Noruega<br />
+	Local: Gin&aacute;sio Poliesportivo Adib Moys&eacute;s Dib<br />
+	Endere&ccedil;o: Av. Kennedy, 1.155 - Bairro Anchieta - S&atilde;o Bernardo do Campo (SP)</p>
+<p>
+	<em><em style="font-style: italic; color: rgb(102, 102, 102); font-family: Lato; font-size: 13px; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Ascom - Minist&eacute;rio do Esporte<br />
+	Acompanhe as not&iacute;cias do Minist&eacute;rio do Esporte no&nbsp;<a href="https://twitter.com/minesporte" style="color: rgb(0, 102, 204); text-decoration: none; font-weight: normal !important;" target="_blank">Twitter&nbsp;</a>e no&nbsp;<a href="https://www.facebook.com/MinisteriodoEsporte?fref=ts" style="color: rgb(0, 102, 204); text-decoration: none; font-weight: normal !important;" target="_blank">Facebook</a></em></em></p>
+
+        <div style="clear:both;"></div>
+        <div class="itp-share">
+             	<div class="itp-share-tw">
+                	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.esporte.gov.br/index.php/noticias/24-lista-noticias/50981-tecnico-da-selecao-feminina-exalta-nivel-do-desafio-das-campeas-de-handebol" data-text="T&eacute;cnico da Sele&ccedil;&atilde;o Feminina exalta n&iacute;vel do &#039;Desafio das Campe&atilde;s&#039; de Handebol" data-via="" data-lang="pt" data-size="small" data-related="" data-hashtags="" data-count="horizontal">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div><div class="itp-share-fbl"><div id="fb-root"></div> 
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+        <fb:like 
+        href="http://www.esporte.gov.br/index.php/noticias/24-lista-noticias/50981-tecnico-da-selecao-feminina-exalta-nivel-do-desafio-das-campeas-de-handebol" 
+        layout="box_count" 
+        show_faces="false" 
+        width="90" 
+        colorscheme="light"
+        send="0" 
+        action="like" ></fb:like>
+        </div><div class="itp-share-gone"><div class="g-plusone" data-size="medium"  data-href="http://www.esporte.gov.br/index.php/noticias/24-lista-noticias/50981-tecnico-da-selecao-feminina-exalta-nivel-do-desafio-das-campeas-de-handebol"></div><script> window.___gcfg = {lang: "pt_BR"};
+              (function() {
+                var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+                po.src = "https://apis.google.com/js/plusone.js";
+                var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+              })();
+            </script></div>
+        </div>
+        <div style="clear:both;"></div>
+        
+	
+
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/index.php/noticias/24-lista-noticias/50981-tecnico-da-selecao-feminina-exalta-nivel-do-desafio-das-campeas-de-handebol?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Imprimir"  /></a>			</li>
+		
+					<li class="email-icon">
+			<a href="/index.php/component/mailto/?tmpl=component&amp;template=portal-me-interno&amp;link=37a3f69c0b3c4f073f93275ecf57dac2ce95b389" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/media/system/images/emailButton.png" alt="E-mail"  /></a>			</li>
+		
+		
+	
+	</ul>
+</div>
+
+                                      
+                                      
+									</div>
+                                    
+                                </div>
+                                                        
+                        </div>                        
+                    </div>
+                    
+                     
+                     
+                     
+                  </div>
+                  </div>
+               </div>
+            </div>
+        </div>
+    </div>
+    </div>
+   
+<div id="footer">
+    <div class="container">
+        <div class="row-fluid">
+			 <div class="span3">
+                <!-- Inclusão do módulo de menu do banner-destaque -->
+                		<div class="moduletable">
+					<h3>Programas e Ações</h3>
+					
+<ul class="menu">
+<li class="item-476"><a href="http://www2.esporte.gov.br/snear/bolsaAtleta/" title="Bolsa Atleta" >Bolsa-Atleta</a></li><li class="item-477"><a href="/index.php/institucional/alto-rendimento/plano-brasil-medalhas" >Plano Brasil Medalhas</a></li><li class="item-478"><a href="/index.php/institucional/esporte-educacao-lazer-e-inclusao-social/segundo-tempo" >Segundo Tempo</a></li><li class="item-479"><a href="/index.php/institucional/secretaria-executiva/lei-de-incentivo-ao-esporte/noticias" >Lei de Incentivo ao Esporte</a></li><li class="item-480"><a href="/index.php/iniciocie/noticias" >Centro de Iniciação ao Esporte</a></li><li class="item-481"><a href="/index.php/institucional/esporte-educacao-lazer-e-inclusao-social/esporte-e-lazer-da-cidade" >Esporte e Lazer da Cidade</a></li><li class="item-482"><a href="/index.php/institucional/secretaria-executiva/praca-da-juventude" >Praça da Juventude</a></li><li class="item-483"><a href="http://atletanaescola.mec.gov.br/" >Atleta na Escola</a></li><li class="item-1064"><a href="http://www.esporte.gov.br/index.php/institucional/futebol-e-direitos-do-torcedor/futebol-feminino" >Futebol Feminino </a></li><li class="item-484"><a href="https://www.brasilvoluntario.gov.br/" >Programa Brasil Voluntário</a></li></ul>
+		</div>
+	
+            </div>
+            <div class="span3">
+                <!-- Inclusão do módulo de menu do banner-destaque -->
+                		<div class="moduletable">
+					<h3>Eventos Esportivos</h3>
+					
+<ul class="menu">
+<li class="item-485"><a href="http://pt.fifa.com/confederationscup/index.html" >Copa das Confederações 2013</a></li><li class="item-486"><a href="http://www.copa2014.gov.br/" >Copa do Mundo 2014</a></li><li class="item-487"><a href="http://www.brasil2016.gov.br" >Rio 2016</a></li><li class="item-489"><a href="/index.php/institucional/alto-rendimento/jogos-escolares-brasileiros" >Jogos Escolares</a></li><li class="item-490"><a href="/index.php/institucional/esporte-educacao-lazer-e-inclusao-social/jogos-indigenas" >Jogos Indígenas</a></li><li class="item-1095"><a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/sala-de-imprensa/nanquim-2014" >Nanquim 2014</a></li></ul>
+		</div>
+	
+            </div>
+            <div class="span2">
+                <!-- Inclusão do módulo de menu do banner-destaque -->
+                		<div class="moduletable">
+					<h3>Públicos</h3>
+					
+<ul class="menu">
+<li class="item-123"><a href="/index.php/atletas" title="Atletas" >Atletas</a></li><li class="item-140"><a href="/index.php/meioacademico" title="Meio Acadêmico" >Meio Acadêmico</a></li><li class="item-139"><a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/sala-de-imprensa" title="Imprensa" >Imprensa</a></li><li class="item-133"><a href="/index.php/estadosmunicipios" >Estados e Municípios</a></li><li class="item-124"><a href="/index.php/cidadaos" title="Cidadãos" >Cidadãos</a></li><li class="item-1147"><a class=" none" href="/index.php/default" title="Cidadãos" >Default</a></li></ul>
+		</div>
+	
+            </div>           
+            <div class="span2">
+                <!-- Inclusão do módulo de menu do banner-destaque -->
+                		<div class="moduletable">
+					<h3>Sobre</h3>
+					
+<ul class="menu">
+<li class="item-134 deeper parent"><a href="/index.php/institucional" ><img src="/images/bg.png" alt="Institucional" /><span class="image-title">Institucional</span> </a><ul><li class="item-149 parent"><a href="/index.php/institucional/acesso-a-informacao" title="Acesso á Informação" >Acesso à Informação</a></li><li class="item-135 parent"><a href="/index.php/institucional/o-ministerio" title="O Ministério" >O Ministério</a></li><li class="item-1090"><a href="http://www.esporte.gov.br/index.php/institucional/secretaria-executiva/lei-de-incentivo-ao-esporte" title="O Ministério" >Lei de Incentivo ao Esporte</a></li><li class="item-1101"><a href="http://www.abcd.gov.br/" target="_blank" title="Autoridade Brasileira de Controle de Dopagem" >Autoridade Brasileira de Controle de Dopagem</a></li><li class="item-136 parent"><a href="/index.php/institucional/secretaria-executiva" title="Secretaria Executiva" >Secretaria Executiva</a></li><li class="item-145 parent"><a href="/index.php/institucional/esporte-educacao-lazer-e-inclusao-social" title="Esporte, Educação, Lazer e Inclusão Social" >Esporte, Educação, Lazer e Inclusão Social</a></li><li class="item-137 parent"><a href="/index.php/institucional/alto-rendimento" title="Alto Rendimento" >Alto Rendimento</a></li><li class="item-146 parent"><a href="/index.php/institucional/futebol-e-direitos-do-torcedor" title="Futebol e Direitos do Torcedor" >Futebol e Direitos do Torcedor</a></li><li class="item-1148"><a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/conselho-nacional-do-esporte" title="Conselho Nacional do Esporte" >Conselho Nacional do Esporte</a></li><li class="item-1153"><a href="http://www.esporte.gov.br/index.php/comissao-nacional-de-atletas" title="Comissão Nacional de Atletas" >Comissão Nacional de Atletas</a></li><li class="item-147"><a href="http://www.esporte.gov.br/index.php/institucional/acesso-a-informacao/institucional/agenda-do-ministro" title="Agenda do Ministro" >Agenda do Ministro</a></li><li class="item-150"><a href="/index.php/institucional/acesso-a-informacao/institucional/legislacao" title="Legislação" >Legislação</a></li><li class="item-1022"><a href="http://www2.esporte.gov.br/licitacao/dispensaExterna.do" title="Licitações" >Licitações</a></li><li class="item-1023"><a href="/index.php/webmail" title="Webmail" >Webmail</a></li></ul></li></ul>
+		</div>
+	
+            </div>
+            <div class="span2" id="rodape">
+                <!-- Inclusão do módulo de menu do banner-destaque -->
+                		<div class="moduletable">
+					<h3>Contato</h3>
+					
+<ul class="menu">
+<li class="item-499"><a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/45412-contatos" >Contatos</a></li><li class="item-500"><a href="http://www.esporte.gov.br/index.php/institucional/o-ministerio/ouvidoria/a-ouvidoria" >Ouvidoria</a></li></ul>
+		</div>
+	
+            </div>
+             <div class="span2 faleConosco">
+                <!-- Inclusão do módulo de menu do banner-destaque -->
+                
+            </div>
+           
+           <div class="row-fluid"> 
+             <div class="span12" id="footerCopy" style="line-height:12px;margin-top:-35px; height:85px">
+                
+                    <p align="center"><span>&copy; 2015 MINISTÉRIO DO ESPORTE</span> <br>
+					<span style="font-size:11px;font-weight:normal">Esplanada dos Ministérios, Bloco A <br>
+					Brasília - DF, 70054-906 <br>
+					Telefone: (61) 3217-1800</span><br> </p>
+                
+                <div class="bannerfooter">
+                    <!--		<div class="moduletable">
+					<div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/12" target="_blank"
+							title="Acesso à Informação">
+							<img
+								src="http://www.esporte.gov.br/images/bannerFooter/acessoInformacao.png"
+								alt="Acesso à Informação"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/13" target="_blank"
+							title="Ouvidoria do Servidor Público">
+							<img
+								src="http://www.esporte.gov.br/images/bannerFooter/ouvidoria.png"
+								alt="Ouvidoria do Servidor Público"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/component/banners/click/14" target="_blank"
+							title="GRU - Guia de Recolhimento da União">
+							<img
+								src="http://www.esporte.gov.br/images/bannerFooter/gru.png"
+								alt="GRU - Guia de Recolhimento da União"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+	-->
+                </div>                 
+              </div> 
+            </div>
+        </div>
+        
+    </div> 
+    	<div class="bannersFooter">
+    	<div class="container">
+        <a href="http://www.acessoainformacao.gov.br/"><img src="/images/banners/acesso-a-infornacao.png" /></a>
+        <!--<a href="http://www.brasil.gov.br/"><img  style="float:right" src="/images/banners/brasil.png" /></a>-->
+        </div>
+        </div>
+        </div>
+        
+        <div class="descricaoCMS">
+        <div class="container" style="padding:10px">
+        Desenvolvido com o CMS de código aberto <a href="http://www.joomla.org/" target="_blank">Joomla</a>
+        </div>
+        </div>
+        
+
+<!-- /container -->
+
+<script src="http://barra.brasil.gov.br/barra.js" type="text/javascript"></script>
+</body>
+</html>
+
+

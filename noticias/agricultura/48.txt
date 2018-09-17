@@ -1,0 +1,990 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+"http://www.w3.org/TR/html4/frameset.dtd"> 
+<HTML lang="pt-br" dir=LTR>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<base target="_top" />
+<TITLE>Noticia Aberta - MAPA</TITLE>
+<style type="text/css">.GroupHeaderid1siteid54{Text-Align:Left;Height:20px;Background-Color:#336699;}
+.GroupHeaderLinkid1siteid54{Font-Weight:Bold;Font-Size:9pt;Font-Family:Arial, Helvetica;Color:#FFFFFF;}
+.GroupHeaderTextid1siteid54{Color:#FFFFFF;Font-Weight:Bold;Font-Size:9pt;Font-Family:Arial, Helvetica;}
+.RegionHeaderid1siteid54{Background-Color:#336699;Text-Align:Left;Height:20px;}
+.RegionHeaderTextid1siteid54{Font-Weight:Bold;Font-Size:9pt;Font-Family:Arial, Helvetica;Color:#FFFFFF;}
+.Bodyid1siteid54{}
+.Destaqueid1siteid54{Color:#6e6e6e;Font-Size:14pt;Font-Family:Arial, Helvetica;Font-Weight:Bold;}
+.Display_In_New_browserid1siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.Display_Reports_Parameter_Formid1siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.Labelid1siteid54{Font-Weight:Bold;Font-Size:14pt;Font-Family:Arial, Helvetica;Color:#6e6e6e;}
+.Oracle_Reports_Componentsid1siteid54{Font-Size:8pt;Color:#000000;Font-Family:Arial, Helvetica;}
+.Resumoid1siteid54{Font-Size:14pt;Font-Family:Arial, Helvetica;Color:#6e6e6e;Font-Weight:Bold;}
+.authorid1siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.createdateid1siteid54{Font-Size:8pt;Color:#000000;Font-Family:Arial, Helvetica;}
+.creatorid1siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.defaultattributeid1siteid54{Color:#6e6e6e;Font-Family:Arial, Helvetica;Font-Size:14pt;Font-Weight:Bold;}
+.descriptionid1siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.documentsizeid1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.expiredateid1siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.inplacedisplayid1siteid54{Font-Size:10pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.itemfunctionid1siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.keywordsid1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.n_idid1siteid54{Color:#6e6e6e;Font-Weight:Bold;Font-Size:14pt;Font-Family:Arial, Helvetica;}
+.perspectivesid1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.scoreid1siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.subpagetitleid1siteid54{Font-Family:Arial, Helvetica;Color:#000000;Font-Size:8pt;}
+.titleid1siteid54{Font-Weight:Bold;Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.titleorimageid1siteid54{Font-Weight:Bold;Font-Size:9pt;Font-Family:Arial, Helvetica;Color:#336699;}
+.wwsbr_category_id1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_charset_id1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_itemtype_id1siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.wwsbr_mime_type_id1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_page_id1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_pagegroup_id1siteid54{Font-Size:8pt;Color:#000000;Font-Family:Arial, Helvetica;}
+.wwsbr_publishdate_id1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_updatedate_id1siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.wwsbr_updator_id1siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_version_number_id1siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.LeftCurve{Background-Repeat:no-repeat;Background-Position:left top;Background-Attachment:scroll;Background-Image:url(http://www.agricultura.gov.br/images/l.gif);}
+.PortletBodyColor{}
+.PortletHeaderColor{Background-Color:#FFFFFF;}
+.PortletHeaderLink{Color:#333333;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.PortletHeaderStyle{}
+.PortletHeaderText{Font-Weight:Bold;Color:#FFFFFF;Font-Size:10pt;Font-Family:Arial, Helvetica;}
+.PortletHeading1{Font-Size:9pt;Font-Family:Arial, Helvetica;Color:#336699;Font-Weight:Bold;}
+.PortletHeading2{Font-Weight:Bold;Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#336699;}
+.PortletHeading3{Color:#336699;Font-Family:Arial, Helvetica;Font-Size:7pt;Font-Weight:Bold;}
+.PortletHeading4{Font-Family:Arial, Helvetica;Font-Weight:Bold;Font-Size:7pt;Color:#336699;}
+.PortletSubHeaderColor{Background-Color:#EEEEDD;}
+.PortletSubHeaderLink{Color:#000000;Font-Size:9pt;Font-Family:Arial, Helvetica;}
+.PortletSubHeaderText{Font-Size:9pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.PortletText1{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.PortletText2{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.PortletText3{Font-Family:Arial, Helvetica;Font-Size:7pt;Color:#000000;}
+.PortletText4{Font-Family:Arial, Helvetica;Font-Size:7pt;Color:#000000;}
+.RightCurve{Background-Image:url(http://www.agricultura.gov.br/images/r.gif);Background-Attachment:scroll;Background-Repeat:no-repeat;Background-Position:right top;}
+.LeftSubTabid1siteid54{Background-Attachment:scroll;Background-Position:left top;Background-Repeat:no-repeat;Background-Image:url(http://www.agricultura.gov.br/images/sl.gif);Background-Color:#336699;}
+.LeftTabBgSlantid1siteid54{Background-Repeat:no-repeat;Background-Position:left top;Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://www.agricultura.gov.br/images/tl.gif);}
+.LeftTabForeSlantid1siteid54{Background-Repeat:no-repeat;Background-Position:left top;Background-Image:url(http://www.agricultura.gov.br/images/tl.gif);Background-Attachment:scroll;Background-Color:#336699;}
+.RightSubTabid1siteid54{Background-Repeat:no-repeat;Background-Position:right top;Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/sr.gif);}
+.RightTabBgCurveid1siteid54{Background-Repeat:no-repeat;Background-Image:url(http://www.agricultura.gov.br/images/tr.gif);Background-Color:#CCCC99;Background-Attachment:scroll;Background-Position:right top;}
+.RightTabForeCurveid1siteid54{Background-Attachment:scroll;Background-Color:#336699;Background-Position:right top;Background-Repeat:no-repeat;Background-Image:url(http://www.agricultura.gov.br/images/tr.gif);}
+.SubTabBgTextid1siteid54{Color:#CCCC99;Font-Family:Arial, Helvetica;Font-Size:11pt;Font-Weight:Bold;Text-Decoration:none;}
+.TabBackgroundColorid1siteid54{Background-Color:#CCCC99;}
+.TabBackgroundTextid1siteid54{Color:#003366;Font-Family:Arial, Helvetica;Font-Size:10pt;Text-Decoration:none;}
+.TabForegroundColorid1siteid54{Background-Color:#336699;}
+.TabForegroundTextid1siteid54{Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Weight:Bold;Text-Decoration:none;Color:#FFFFFF;}
+.portlet-font{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-font-dim{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-msg-status{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-msg-info{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-msg-error{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-msg-alert{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-msg-success{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-section-header{Font-Size:9pt;    Font-Family:Arial, Helvetica;    Color:#336699;    Font-Weight:Bold;    }
+.portlet-section-body{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-section-alternate{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-section-selected{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-section-subheader{Font-Weight:Bold;    Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#336699;    }
+.portlet-section-footer{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-section-text{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-table-header{Font-Size:9pt;    Font-Family:Arial, Helvetica;    Color:#336699;    Font-Weight:Bold;    Background-Color:#EEEEDD;    }
+.portlet-table-body{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-table-alternate{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-table-selected{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-table-subheader{Font-Weight:Bold;    Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#336699;    }
+.portlet-table-footer{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-table-text{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-form-label{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-form-input-field{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-form-button{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-icon-label{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-dlg-icon-label{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-form-field-label{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.portlet-form-field{Font-Size:8pt;    Font-Family:Arial, Helvetica;    Color:#000000;    }
+.RegionNoBorder{}
+.RegionBorder { border:#FFFFFF  1px solid; }
+.RegionHeaderColor { border:#FFFFFF 0px solid;}
+.PageColor { background-color:}
+ </style><style type="text/css">.GroupHeaderid14369siteid54{Text-Align:Left;Height:20px;Background-Color:#336699;}
+.GroupHeaderLinkid14369siteid54{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.GroupHeaderTextid14369siteid54{Font-Family:Arial, Helvetica;Color:#FFFFFF;Font-Size:9pt;Font-Weight:Bold;}
+.RegionHeaderid14369siteid54{Background-Color:#336699;Height:20px;Text-Align:Left;}
+.RegionHeaderTextid14369siteid54{Color:#FFFFFF;Font-Weight:Bold;Font-Family:Arial, Helvetica;Font-Size:9pt;}
+.Bodyid14369siteid54{}
+.Destaqueid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.Display_In_New_browserid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.Display_Reports_Parameter_Formid14369siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.Labelid14369siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.Oracle_Reports_Componentsid14369siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.Resumoid14369siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.authorid14369siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.createdateid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.creatorid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.defaultattributeid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.descriptionid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.documentsizeid14369siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.expiredateid14369siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.inplacedisplayid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.itemfunctionid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.keywordsid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.n_idid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.perspectivesid14369siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.scoreid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.subpagetitleid14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.titleid14369siteid54{Color:#919177;Font-Family:Arial, Helvetica;Font-Size:8pt;Font-Weight:Bold;}
+.titleorimageid14369siteid54{Color:#919177;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.wwsbr_category_id14369siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_charset_id14369siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_itemtype_id14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_mime_type_id14369siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_page_id14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_pagegroup_id14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_publishdate_id14369siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.wwsbr_updatedate_id14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_updator_id14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_version_number_id14369siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.LeftSubTabid14369siteid54{Background-Position:left top;Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/sl.gif);Background-Repeat:no-repeat;}
+.LeftTabBgSlantid14369siteid54{Background-Position:left top;Background-Image:url(http://www.agricultura.gov.br/images/tl.gif);Background-Color:#CCCC99;Background-Attachment:scroll;Background-Repeat:no-repeat;}
+.LeftTabForeSlantid14369siteid54{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.RightSubTabid14369siteid54{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/sr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabBgCurveid14369siteid54{Background-Image:url(http://www.agricultura.gov.br/images/tr.gif);Background-Color:#CCCC99;Background-Attachment:scroll;Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabForeCurveid14369siteid54{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.SubTabBgTextid14369siteid54{Color:#CCCC99;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:11pt;Font-Weight:Bold;}
+.TabBackgroundColorid14369siteid54{Background-Color:#CCCC99;}
+.TabBackgroundTextid14369siteid54{Color:#003366;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;}
+.TabForegroundColorid14369siteid54{Background-Color:#336699;}
+.TabForegroundTextid14369siteid54{Color:#FFFFFF;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Weight:Bold;}
+ </style><style type="text/css">.GroupHeaderid16421siteid54{Text-Align:left;Height:20px;Background-Color:#336699;}
+.GroupHeaderLinkid16421siteid54{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.GroupHeaderTextid16421siteid54{Font-Family:Arial, Helvetica;Color:#FFFFFF;Font-Size:9pt;Font-Weight:Bold;}
+.RegionHeaderid16421siteid54{Background-Color:#336699;Height:20px;Text-Align:Left;}
+.RegionHeaderTextid16421siteid54{Color:#FFFFFF;Font-Weight:Bold;Font-Family:Arial, Helvetica;Font-Size:9pt;}
+.Bodyid16421siteid54{Background-Image:url(http://www.agricultura.gov.br/portal/pls/portal/docs/1/10054.PNG);}
+.Destaqueid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.Display_In_New_browserid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.Display_Reports_Parameter_Formid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.Labelid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.Oracle_Reports_Componentsid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.Resumoid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.authorid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.createdateid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.creatorid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.defaultattributeid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.descriptionid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.documentsizeid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.expiredateid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.inplacedisplayid16421siteid54{Color:#484848;Font-Family:Arial, Helvetica;Font-Size:10pt;}
+.itemfunctionid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.keywordsid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.n_idid16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.perspectivesid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.scoreid16421siteid54{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.subpagetitleid16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.titleid16421siteid54{Color:#336699;Font-Family:Arial, Helvetica;Font-Size:16pt;Font-Weight:Bold;}
+.titleorimageid16421siteid54{Color:#a8a88f;Font-Family:Arial, Helvetica;Font-Size:8pt;Font-Weight:Bold;}
+.wwsbr_category_id16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_charset_id16421siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_itemtype_id16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_mime_type_id16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_page_id16421siteid54{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_pagegroup_id16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_publishdate_id16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_updatedate_id16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_updator_id16421siteid54{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_version_number_id16421siteid54{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.LeftSubTabid16421siteid54{Background-Position:left top;Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/sl.gif);Background-Repeat:no-repeat;}
+.LeftTabBgSlantid16421siteid54{Background-Position:left top;Background-Image:url(http://www.agricultura.gov.br/images/tl.gif);Background-Color:#CCCC99;Background-Attachment:scroll;Background-Repeat:no-repeat;}
+.LeftTabForeSlantid16421siteid54{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.RightSubTabid16421siteid54{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/sr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabBgCurveid16421siteid54{Background-Image:url(http://www.agricultura.gov.br/images/tr.gif);Background-Color:#CCCC99;Background-Attachment:scroll;Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabForeCurveid16421siteid54{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://www.agricultura.gov.br/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.SubTabBgTextid16421siteid54{Color:#CCCC99;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:11pt;Font-Weight:Bold;}
+.TabBackgroundColorid16421siteid54{Background-Color:#CCCC99;}
+.TabBackgroundTextid16421siteid54{Color:#003366;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;}
+.TabForegroundColorid16421siteid54{Background-Color:#336699;}
+.TabForegroundTextid16421siteid54{Color:#FFFFFF;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Weight:Bold;}
+ </style>
+<base href="http://www.agricultura.gov.br/portal/pls/portal/">
+
+<script type="text/javascript" src="/arq/js/include.js"></script>
+<noscript>
+É necessário utilizar um navegador com suporte a javascript para poder navegar em algumas funcionalidades do portal.
+</noscript>
+<style type="text/css">@import url(http://www.agricultura.gov.br/arq/css/include.css);
+tr.PortletHeaderColor,
+td.PortletHeaderColor{background-color:transparent !important;}
+tr.PortletHeaderColor img{display:none;}
+</style>
+<!--if IE-->
+<style type="text/css">
+div#barra-governo{
+	margin-top: -5px !important;
+}
+</style>
+<!--endif-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12908115-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</HEAD>
+<BODY>
+<noscript>Algumas funcionalidades do portal podem ficar comprometidas sem o uso do recurso de javascript.</noscript>
+
+<input type="hidden" name="isComponente" id="isComponente" value="N"/> 
+
+<div id="background-topo">
+	<div id="resolucao-topo">
+
+
+<iframe id="portalIFrame" title="" frameborder="0" width="0" height="0" src="/images/pobtrans.gif"></iframe><script type="text/javascript" src="http://www.agricultura.gov.br/portal/pls/portal/PORTAL.wwsbr_javascript.page_js?p_language=us&amp;p_version=10.1.4.2.0.197">
+<!-- Comment out script for old browsers
+//-->
+</SCRIPT>
+<TABLE  width="100%" id="rg20639"  border="0" cellpadding="0" cellspacing="0" summary=""><tr><td></td></tr></TABLE><TABLE  width="100%" id="rg20641"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55612_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55612_54_55587_55587"><div class="Bodyid1siteid0">
+<TABLE  width="100%" id="rg20260"  border="0" cellpadding="0" cellspacing="0" summary=""><tr><td></td></tr></TABLE><TABLE  width="100%" id="rg3663"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55612_54_55587_55587-54_25186328_54_14396_14396"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55612_54_55587_55587-54_25186328_54_14396_14396">	<style type="text/css">
+		body {
+			margin:0;
+		}
+		#barra-brasil-v3 {
+			position:relative;
+			clear:both;
+			overflow:hidden;
+			min-width:1000px;
+			height:28px;
+			background:#00500f;
+		}
+		#barra-brasil-v3 span {
+			display:block;
+			width:100%;
+			height:28px;
+			background:url(/arq/img/barra-brasil-v3-bgx.gif) 0 bottom repeat-x;
+		}
+		#barra-brasil-v3 span .imagemai {
+			position:absolute;
+			top:4px;
+			left:50%;
+			height: 24px;
+			width: 900px;
+			background: url(/arq/img/ai.png) right top no-repeat;
+			margin-left:-505px;
+		}
+		#barra-brasil-v3 span .imagemGov {
+			position:absolute;
+			top:4px;
+			left:50%;
+			height: 24px;
+			width: 1000px;
+			background: url(/arq/img/barra-brasil-v3-verde.gif) right top no-repeat;
+			margin-left:-500px;
+		}
+		#barra-brasil-v3 span .brasilgov {
+			width: 100px;
+			height: 24px;
+			float:right;
+			display:block;
+			border: 0 !important;
+		}
+		#barra-brasil-v3 span .ai {
+			width: 100px;
+			height: 24px;
+			float:right;
+			display:block;
+			border: 0 !important;
+		}
+	</style>
+
+
+		<div id="barra-brasil-v3">
+        	<span>
+            	<div class="imagemGov">
+                	<a href="http://www.brasil.gov.br" target="_blank" class="brasilgov"></a>
+               	</div>
+        	</span>
+             <span>
+            	<div class="imagemai">
+                	<a href="http://www.acessoainformacao.gov.br/" class="ai"></a>
+               	</div>
+        	</span>
+
+       	</div>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE><TABLE  width="100%" id="rg20645"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55618_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55618_54_55587_55587"><div class="Bodyid1siteid0">
+<TABLE  width="100%" id="rg17077"  border="0" cellpadding="0" cellspacing="0" summary=""><tr><td></td></tr></TABLE><TABLE  border="0" cellspacing="0" cellpadding="0" width="100%"  summary="">
+<TR>
+<td valign="top" style="width:33%">
+<TABLE  width="100%" id="rg3160"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55618_54_55587_55587-54_12401_54_12398_12398"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55618_54_55587_55587-54_12401_54_12398_12398"><script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+      var pageTracker = _gat._getTracker("UA-12908115-1");
+      pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<h1>
+<a href="/portal/page/portal/Internet-MAPA/pagina-inicial">MINISTÉRIO DA <strong>AGRICULTURA&nbsp;</strong></a>
+</h1>
+
+
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></TD>
+<td valign="top" style="width:33%">
+<TABLE  width="100%" id="rg17079"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55618_54_55587_55587-54_47467_54_12398_12398"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55618_54_55587_55587-54_47467_54_12398_12398"><p id="idiomas">
+<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/comunicacao" class="blt-seta" title="Sala de Imprensa">Sala de Imprensa</a>
+<a href="http://www.brasil.gov.br" class="blt-seta" title="Governo" target="_blank">Governo</a>
+<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/biblioteca" class="blt-seta" title="Biblioteca">Biblioteca</a>
+
+</p>
+
+
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></TD>
+<td valign="top" style="width:33%">
+<TABLE  width="100%" id="rg17576"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="login">
+
+<div id="p54_55618_54_55587_55587-54_47469_54_12398_12398"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55618_54_55587_55587-54_47469_54_12398_12398"><strong><a href="/portal/page/portal/Intranet-MAPA/pagina-inicial/">Acesso à rede interna</a></strong>
+
+
+
+
+
+
+
+
+</DIV></TD></TR>
+</TABLE>
+</DIV>
+
+</div>
+</TD></TR>
+<TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="login">
+
+<div id="p54_55618_54_55587_55587-54_47477_54_12398_12398"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55618_54_55587_55587-54_47477_54_12398_12398"><script type="text/javascript">
+<!-- Comment out script for old browsers
+
+                function hideElement(element_id) 
+                {
+                      document.getElementById(element_id).style.visibility="hidden";
+                };
+
+                function unHideElement(element_id) 
+                {
+                      document.getElementById(element_id).style.visibility="";
+                };
+            
+  
+
+                NS4 = (document.layers) ? true : false;
+
+                function checkEnter(event)
+                {     
+                    var code = 0;
+                    
+                    if (NS4)
+                        code = event.which;
+                    else
+                        code = event.keyCode;
+                    if (code==13)
+                        loginsubmit("msg");
+                }
+                
+                function loginsubmit(element_id) {
+                    unHideElement(element_id);
+                    document.LoginForm.password.value = (document.LoginForm.password.value == "") ? document.LoginForm.p_request.value : document.LoginForm.password.value;	//this line is required for IE5.5, which fires loginsubmit twice.
+                    document.LoginForm.p_request.value = "";
+
+                    if (!parent.frames.s2pFrame) {
+                        document.LoginForm.site2pstoretoken.value = "v1.2~815533C7~FDC6CA0F56B13E915E610BEE249F4BABEB5927BF41EF35267EA7AF200E2B2554696CA6A77020DF1F6834C9A4448CD79889D77E11EBE1919934A6EF0ABD8A6BF3D8FD3ABFDD16A21B769CCF40C112B1866014B5849A9652DD01B7CEEBC4C17AFB9B999937389503F5712401EBFDFA97BFF0BD48632BF9310DAA0CBC79E93EE2EA12E969C60BD42D1272877360B17C4BCC2DCB8A5CF66E3EBA5B53A0DE3AD63659B9261E1EF9258796E5822EF92F621B22328D528A70C5B85C98D1F94E767C1DAB190A825CA0BD4BD2E76FE80F70427EEB26283E4F7BDF09453BF50A42687A7E4BE01B4D5F77692D0A82EB45A9DD21C91DEAC63DF044ADFE5CFB133ABFB6AAC80EB69A56276AAFCBAC16E94846884F359F";
+                    } else {
+                        var hw = parent.frames.s2pFrame.window;
+                        var s2p = hw.document.getElementById("freshTokenForm").site2pstoretoken.value;
+                        document.LoginForm.site2pstoretoken.value = s2p;
+                    }
+                    document.cookie="portal_url=aHR0cDovL3d3dy5hZ3JpY3VsdHVyYS5nb3YuYnIvcG9ydGFsL3BhZ2UvcG9ydGFsL0ludHJhbmV0LU1BUEEvcGFnaW5hLWluaWNpYWw=; path=/";
+                    document.LoginForm.submit();
+                }
+            
+//-->
+</SCRIPT>
+<FORM ACTION="https://login.agricultura.gov.br/pls/orasso/orasso.wwsso_app_admin.ls_login" METHOD="POST" name="LoginForm" autocomplete="off" style="display:inline">
+<div style="display:inline">
+<INPUT TYPE="hidden" NAME="site2pstoretoken" VALUE="">
+<INPUT TYPE="hidden" NAME="password" VALUE="">
+</DIV>
+<TABLE   summary="">
+<TR>
+<TD COLSPAN="2" class="PortletText1">Enter your user name and password to login.</TD>
+</TR>
+<TR>
+<TD class="PortletHeading1">User Name</TD>
+<TD><INPUT TYPE="text" NAME="ssousername" SIZE="20" MAXLENGTH="80" onfocus="hideElement('msg')" onkeypress="checkEnter(event)"></TD>
+</TR>
+<TR>
+<TD class="PortletHeading1">Password</TD>
+<TD><INPUT TYPE="password" NAME="p_request" SIZE="20" MAXLENGTH="255" onfocus="hideElement('msg')" onkeypress="checkEnter(event)"></TD>
+</TR>
+<TR>
+<TD></TD>
+<td style="white-space:nowrap" class="PortletText1">
+<input type="button" name="Login" value="Login" onclick="loginsubmit('msg')" />
+<span id="msg" style="visibility:hidden">Verifying Credentials...</span>
+</TD>
+</TR>
+</TABLE>
+</FORM>
+
+                  <iframe 
+                    name="s2pFrame" 
+                    style="width:0px; height:0px; border: 0px"
+                    src="http://www.agricultura.gov.br/portal/pls/portal/PORTAL.wwptl_login.show_site2pstoretoken?p_ref=10383_LOGIN_293232235&amp;p_url=http%3A%2F%2Fwww.agricultura.gov.br%2Fportal%2Fpage%2Fportal%2FInternet-MAPA%2Fpagina-inicial%2Fvegetal%2Fnoticias%2Fnoticia-aberta%3Fp_ano%3D2015%26p_mes%3D05%26p_titulo%3Dsuspensa-importacao-de-graos-verdes-de-cafe-do-peru&amp;p_cancel=http%3A%2F%2Fwww.agricultura.gov.br%2Fportal%2Fpage%2Fportal%2FInternet-MAPA%2Fpagina-inicial%2Fvegetal%2Fnoticias%2Fnoticia-aberta%3Fp_ano%3D2015%26p_mes%3D05%26p_titulo%3Dsuspensa-importacao-de-graos-verdes-de-cafe-do-peru">
+                  </iframe>
+            
+</DIV></TD></TR>
+</TABLE>
+</DIV>
+
+</div>
+</TD></TR>
+<TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="login">
+
+<div id="p54_55618_54_55587_55587-54_47479_54_12398_12398"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55618_54_55587_55587-54_47479_54_12398_12398"><p style="*margin-top:-2px">
+<input type="image" src="/arq/img/ico-diminuir-fonte.png" title="Diminuir tamanho da fonte" id="diminuir-fonte" />
+<input type="image" src="/arq/img/ico-original-fonte.png" value="" title="Tamanho original da fonte" id="normal-fonte" />
+<input type="image" src="/arq/img/ico-aumentar-fonte.png" value="" title="Aumentar tamanho da fonte" id="aumentar-fonte" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</DIV></TD></TR>
+</TABLE>
+</DIV>
+
+</div>
+</TD></TR>
+</TABLE></TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE><TABLE  width="100%" id="rg20642"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55614_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55614_54_55587_55587"><div class="Bodyid1siteid0">
+<TABLE  width="100%" id="rg24736"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55614_54_55587_55587-54_23610773_54_14359_14359"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55614_54_55587_55587-54_23610773_54_14359_14359"><br>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+<TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55614_54_55587_55587-54_65292_54_14359_14359"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55614_54_55587_55587-54_65292_54_14359_14359"><div id="menu-global">
+<ul>
+
+<li>
+<a href="/ministerio" title="Ministério" >Ministério</a>
+</li>
+
+<li>
+<a href="/acessoainformacao" title="Acesso à Informação">Acesso à Informação</a>
+</li>
+
+<li>
+<a href="/animal" title="Animal" >Animal</a>
+</li>
+
+<li>
+<a href="/vegetal" title="Vegetal" >Vegetal</a>
+</li>
+
+<li>
+<a href="/desenvolvimento-sustentavel" title="Desenvolvimento Sustentável" >Desenvolvimento Sustentável</a>
+</li>
+
+<li>
+<a href="/politica-agricola" title="Política Agrícola" >Política Agrícola</a>
+</li>
+
+<li>
+<a href="/internacional" title="Internacional" >Internacional</a>
+</li>
+
+<li>
+<a href="/cooperativismo-associativismo/o-denacoop" title="Cooperativismo e Associativismo" >Cooperativismo e Associativismo</a>
+</li>
+
+<li>
+<a href="/camaras-setoriais-e-tematicas" title="Câmaras Setoriais e Temáticas" >Câmaras Setoriais e Temáticas</a>
+</li>
+
+<li>
+<a href="/servicos-e-sistemas" title="Serviços e Sistemas" >Serviços e Sistemas</a>
+</li>
+
+<li>
+<a href="/convenios" title="Convênios" >Convênios</a>
+</li>
+
+<li>
+<a href="/legislacao" title="Legislação" >Legislação</a>
+</li>
+
+</ul>
+</div>
+
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE><TABLE  width="100%" id="rg20643"  style="height:10px" border="0" cellpadding="0" cellspacing="0" summary=""><TR>
+<TD COLSPAN="1" style="width:100%;" ><IMG SRC="/images/pobtrans.gif" height="1" width="1" alt="" style="display:block"></TD>
+</TR>
+</TABLE><TABLE  width="100%" id="rg20644" class="Bodyid14369siteid54" style="height:23px" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><A HREF="http://www.agricultura.gov.br/portal/page/portal/Internet-MAPA/pagina-inicial" class="titleorimageid14369siteid54">Página Inicial</A><span class="titleid14369siteid54"> > </SPAN>
+<A HREF="http://www.agricultura.gov.br/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal" class="titleorimageid14369siteid54">Vegetal</A><span class="titleid14369siteid54"> > </SPAN>
+<A HREF="http://www.agricultura.gov.br/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/noticias" class="titleorimageid14369siteid54">Notícias</A><span class="titleid14369siteid54"> > </SPAN>
+<span class="titleid14369siteid54">Noticia Aberta</SPAN></TD></TR>
+</TABLE><TABLE  width="100%" id="rg20647"  style="height:30px" border="0" cellpadding="0" cellspacing="0" summary=""><TR>
+<TD COLSPAN="1" style="width:100%;" ><IMG SRC="/images/pobtrans.gif" height="1" width="1" alt="" style="display:block"></TD>
+</TR>
+</TABLE><TABLE  border="0" cellspacing="0" cellpadding="0" width="100%"  summary="">
+<TR>
+<td valign="top" style="width:174px">
+<TABLE  width="100%" id="rg20638"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_59258_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_59258_54_55587_55587"><div class="Bodyid1siteid54">
+<TABLE  width="100%" id="rg11970"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_59258_54_55587_55587-54_34209_54_34205_34205"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_59258_54_55587_55587-54_34209_54_34205_34205"><div id="corpomenu">
+<div class="coluna" id="menu">
+
+
+<ul style="border-bottom:1px solid #e8e5d8;padding-bottom:20px;margin-bottom:1px;">
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/culturas" title="Culturas">Culturas</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/registros-autorizacoes" title="Registros e Autorizações">Registros e Autorizações</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/noticias" title="Notícias">Notícias</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/mercado-interno" title="Mercado Interno">Mercado Interno</a>    
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/exportacao" title="Exportação">Exportação</a>
+        </li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/importacao" title="Importação">Importação</a>
+        </li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/estatisticas" title="Estatísticas">Estatísticas</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/servicos-relacionados" title="Serviços Relacionados">Serviços Relacionados</a>	
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/legislacao" title="Legislacao">Legislação</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/safras-estoques" title="Safras e Estoques">Safras e Estoques</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/pesquisas-desenvolvimento" title="Pesquisas e Desenvolvimento">Pesquisas e Desenvolvimento</a>
+	</li>
+</ul>
+
+
+<ul style="border-top:1px solid #d8d5c4;padding-top:15px;">
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/sementes-mudas" title="Sementes e Mudas">Sementes e Mudas</a>	
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/agrotoxicos" title="Agrotóxicos">Agrotóxicos</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/organismos-geneticamente-modificados" title="Organismos geneticamente modificados">Organismos geneticamente modificados</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/fertilizantes" title="Fertilizantes">Fertilizantes</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/qualidade-seguranca-alimentos-bebidas" title="Qualidade e Segurança dos Alimentos e Bebidas">Qualidade e Segurança dos Alimentos e Bebidas</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/noticias" title="Notícias">Notícias</a>
+	</li>
+	<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/orientacoes-e-treinamentos" title="Orientações e Treinamentos">Orientações e Treinamentos</a>
+	</li>
+	<!--<li>
+		<a href="/portal/page/portal/Internet-MAPA/pagina-inicial/vegetal/laboratorios/" title="Laboratórios">Laboratórios</a>
+	</li>-->
+</ul>
+</div>
+</div>
+
+
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></TD>
+<td valign="top" style="width:600px">
+<TABLE  width="100%" id="rg20631" class="Bodyid1siteid54" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="corpotitulo">
+
+<span class="descriptionid1siteid54"></SPAN>
+<span class="inplacedisplayid1siteid54"><h2><span>Notícias</span></h2></SPAN>
+
+</div>
+</TD></TR>
+</TABLE><TABLE  width="100%" id="rg20632" class="Bodyid1siteid54" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><IMG SRC="http://www.agricultura.gov.br/arq/img/bkg-topo-conteudo-novo.png" ALT=" "  style="border:none;">
+</TD></TR>
+</TABLE><TABLE  width="100%" id="rg48864"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div class="fundo-portlet">
+
+
+<div id="p54_612370_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_612370_54_55587_55587"><div class="visualiza-noticia"> <span class="noticia">21/05/2015 16:26</span> <span class="chapeu">Sanidade vegetal</span> <h3 class="noticia">Suspensa importa&ccedil;&atilde;o de gr&atilde;os verdes de caf&eacute; do Peru</h3><p class="resumo-noticia">Resolu&ccedil;&atilde;o do Departamento de Sanidade Vegetal foi publicada no Di&aacute;rio Oficial desta quinta (21)
+
+</p>
+<p>O Departamento de Sanidade Vegetal, da Secretaria de Defesa Agropecu&aacute;ria (DSV/SDA), suspendeu a importa&ccedil;&atilde;o de gr&atilde;os verdes de caf&eacute; provenientes do Peru at&eacute; a apresenta&ccedil;&atilde;o, por parte da Organiza&ccedil;&atilde;o Nacional de Prote&ccedil;&atilde;o Fitossanit&aacute;ria (ONPF) daquele pa&iacute;s, de um plano de trabalho para ser aprovado pelo Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento (Mapa). A decis&atilde;o foi publicada no Di&aacute;rio Oficial da Uni&atilde;o desta quinta-feira (21).</p><p>De acordo com o secret&aacute;rio de Defesa Agropecu&aacute;ria, D&eacute;cio Coutinho, h&aacute; fatores de risco adicionais na eventual importa&ccedil;&atilde;o de caf&eacute; do Peru. Por isso, &ldquo;o Minist&eacute;rio da Agricultura suspendeu as importa&ccedil;&otilde;es para aguardar novas garantias do governo do Peru, a serem avaliadas em um plano de trabalho, que assegure o envio do produto livre de pragas para o Brasil&rdquo;.</p><p>O plano de trabalho dever&aacute; conter informa&ccedil;&otilde;es sobre a produ&ccedil;&atilde;o de gr&atilde;os verdes de caf&eacute;, as pragas presentes e os tratamentos fitossanit&aacute;rios utilizados. Al&eacute;m disso, o documento tamb&eacute;m dever&aacute; descrever as medidas de redu&ccedil;&atilde;o de risco de envio de pragas no com&eacute;rcio internacional de caf&eacute;. O plano deve ser aprovado pelo DSV para efeito de autoriza&ccedil;&atilde;o de importa&ccedil;&atilde;o.</p><p>Clique <a href="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/05/2015&amp;jornal=1&amp;pagina=57&amp;totalArquivos=140">aqui</a> para ler a resolu&ccedil;&atilde;o.</p><p><br />Mais informa&ccedil;&otilde;es para a imprensa:<br />Assessoria de Comunica&ccedil;&atilde;o Social<br />Maycon Fidalgo<br /><a href="mailto:maycon.fidalgo@agricultura.gov.br">maycon.fidalgo@agricultura.gov.br</a><br />(61) 3218-3085<br />&nbsp;</p>
+</div>
+<br class="cl" />
+<p> <strong>Palavras chave:</strong>
+<a class="nivel-25" href="/comunicacao/noticias/todas-noticias-palavra-chave?p_palavra=café">café</a>
+<a class="nivel-25" href="/comunicacao/noticias/todas-noticias-palavra-chave?p_palavra=Peru">Peru</a>
+<a class="nivel-25" href="/comunicacao/noticias/todas-noticias-palavra-chave?p_palavra=importação">importação</a>
+<a class="nivel-25" href="/comunicacao/noticias/todas-noticias-palavra-chave?p_palavra=suspensão">suspensão</a>
+<a class="nivel-25" href="/comunicacao/noticias/todas-noticias-palavra-chave?p_palavra=Mapa">Mapa</a>
+<a class="nivel-25" href="/comunicacao/noticias/todas-noticias-palavra-chave?p_palavra=sanidade">sanidade</a>
+<a class="nivel-25" href="/comunicacao/noticias/todas-noticias-palavra-chave?p_palavra=vegetal">vegetal</a>
+</p>
+</DIV></TD></TR>
+</TABLE>
+</DIV>
+
+
+</div>
+</TD></TR>
+</TABLE><TABLE  width="100%" id="rg20636" class="Bodyid16421siteid54" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><style type="text/css">@import url(http://portal.agricultura.gov.br/arq/css/estilo-geral.css);</style>
+
+<div id="conteudointerna">
+<div class="coluna" id="moldura-conteudo">
+<div id="corpo-conteudo" style="width:510px;">
+
+
+<span class="descriptionid16421siteid54"></SPAN>
+<span class="inplacedisplayid16421siteid54"><p class="link"><a title="" href="javaScript:window.print()">Imprimir</a></p></SPAN>
+
+
+</div></div></div>
+</TD></TR>
+</TABLE><TABLE  width="100%" id="rg20633" class="Bodyid1siteid54" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><IMG SRC="http://www.agricultura.gov.br/arq/img/bkg-moldura-conteudo.png" ALT=" " style="border:none" >&nbsp;<span class="titleorimageid1siteid54"> </SPAN><BR>
+</TD></TR>
+</TABLE><TABLE  width="100%" id="rg20635" class="Bodyid1siteid54" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><span class="inplacedisplayid1siteid54"><html dir="ltr">
+    <head>
+    </head>
+    <body>
+        <h3 style="margin:20px 0 0 15px"><span style="background: #f7f7f2; color: rgb(120, 105, 53);">Últimas Notícias</span></h3>
+    </body>
+</html></SPAN>
+</TD></TR>
+</TABLE><TABLE  width="100%" id="rg20630" class="Bodyid1siteid54" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div style="width: 510px; font-size:1em;" id="ultimas-noticias">
+
+<span class="descriptionid1siteid54"></SPAN>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir=LTR> <head> <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> <script language="javascript">   function Pagina(param,pini,pfim,vPag) {     var ini = pini;     var fim = pfim;     if ((pini == "") && (pfim == "")) {       ini = document.formulario2.p_linha_inicial.value;       fim = document.formulario2.p_linha_final.value;       qt  = document.formulario2.p_qt_exibir.value;       if (param == "next") {         ini = (ini*1)+((qt)*1);         fim = (fim*1)+((qt)*1);       } else {         ini = (ini*1)-((qt)*1);         fim = (fim*1)-((qt)*1);       }     }     document.formulario2.p_linha_inicial.value=ini;     document.formulario2.p_linha_final.value=fim;     document.formulario2.p_paginacao.value=vPag;     document.formulario2.action="PUBACS.LISTA_DESTAQUE_NOTICIA?p_id_idioma=2&p_linha_inicial="+ini+"&p_linha_final="+fim;     document.formulario2.target="_self";     document.formulario2.method="post";     document.formulario2.submit();   } </script> <style type="text/css">  @import url(/arq/css/estilo-pubacs.css); </style> </head> 
+ <body> 
+<span> Com&eacute;rcio bilateral</span> <a href=" /animal/noticias/2015/06/arabia-saudita-avalia-reabertura-do-mercado-a-carne-bovina-brasileira" target="_top">02/06/2015 09:45  Ar&aacute;bia Saudita avalia reabertura do mercado &agrave; carne bovina brasileira</a><br>
+<span> Paris</span> <a href=" /animal/noticias/2015/05/em-discurso-na-oie-ministra-confirma-compromisso-por-excelencia-em-sanidade" target="_top">25/05/2015 16:06  Em discurso na OIE, ministra confirma compromisso por excel&ecirc;ncia em sanidade</a><br>
+<span> Internacional</span> <a href=" /animal/noticias/2015/05/veja-a-integra-do-discurso-da-ministra-durante-sessao-geral-da-oie" target="_top">25/05/2015 15:31  Veja a &iacute;ntegra do discurso da ministra durante Sess&atilde;o Geral da OIE</a><br>
+<span> Internacional</span> <a href=" /animal/noticias/2015/05/ministra-participa-de-83-sessao-geral-da-oie-em-paris" target="_top">22/05/2015 18:31  Ministra participa de 83ª Sess&atilde;o Geral da OIE, em Paris</a><br>
+<span> Sa&uacute;de Animal</span> <a href=" /animal/noticias/2015/05/ministra-espera-reducao-de-custo-e-mais-agilidade-no-registro-de-genericos-veterinarios" target="_top">21/05/2015 15:45  Ministra espera redu&ccedil;&atilde;o de custo e mais agilidade no registro de gen&eacute;ricos veterin&aacute;rios</a><br>
+  <form name="formulario2" method="post" action="lista_destaque_noticia">   <input type="hidden" name="p_id_area"        value="5">   <input type="hidden" name="p_id_secao"       value="">   <input type="hidden" name="p_qt_exibir"      value="3">   <input type="hidden" name="p_url"            value="">   <input type="hidden" name="p_tipo"           value="INTERNO">   <input type="hidden" name="p_paginacao"      value="N">   <input type="hidden" name="p_linha_inicial"  value="1">   <input type="hidden" name="p_linha_final"    value="5"> 
+</p>  </form>   </body> </html> 
+
+
+</div>
+</TD></TR>
+</TABLE><TABLE  width="100%" id="rg24228" class="Bodyid1siteid54" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div class="todas-noticias">
+
+<span class="descriptionid1siteid54"></SPAN>
+<span class="inplacedisplayid1siteid54"><p><a href="/vegetal/noticias/todas-noticias">Outras notícias</a></p></SPAN>
+
+</div>
+</TD></TR>
+</TABLE><TABLE  width="100%" id="rg20634" class="Bodyid1siteid54" style="height:40px" border="0" cellpadding="0" cellspacing="0" summary=""><TR>
+<TD COLSPAN="1" style="width:100%;" ><IMG SRC="/images/pobtrans.gif" height="1" width="1" alt="" style="display:block"></TD>
+</TR>
+</TABLE></TD>
+<td valign="top" style="width:238px">
+<TABLE  width="100%" id="rg20637"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55606_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55606_54_55587_55587"><div class="Bodyid1siteid54">
+<TABLE  width="100%" id="rg4696"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55606_54_55587_55587-54_22695818_54_15451_15451"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55606_54_55587_55587-54_22695818_54_15451_15451"><br>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+<TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55608_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55608_54_55587_55587"><div class="Bodyid1siteid54">
+<TABLE  width="100%" id="rg19301"  border="0" cellpadding="0" cellspacing="0" summary=""><tr><td></td></tr></TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></TD>
+</TR>
+</TABLE>
+<TABLE  width="100%" id="rg20627"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55588_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55588_54_55587_55587"><div class="Bodyid1siteid0">
+<TABLE  width="100%" id="rg24735"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55588_54_55587_55587-54_65288_54_12415_12415"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55588_54_55587_55587-54_65288_54_12415_12415"><div id="corporodape" style="margin-top:20px"> 
+	<div id="rodape"> 
+	<p> 
+		<a href="/ministerio" title="">Ministério</a> | 
+		<a href="/animal" title="">Animal</a> | 
+		<a href="/vegetal" title="">Vegetal</a> | 
+		<a href="/desenvolvimento-sustentavel" title="">Desenvolvimento Sustentável</a> | 
+		<a href="/politica-agricola" title="">Política Agrícola</a> | 
+		<a href="/cooperativismo-associativismo" title="">Cooperativismo e Associativismo</a><br/> 
+		<a href="/camaras-setoriais-e-tematicas" title="">Câmaras Setoriais e Temáticas</a> |
+		<a href="/servicos-e-sistemas" title="">Serviços e Sistemas</a> | 
+		<a href="/convenios" title="">Convênios</a> | 
+		<a href="/legislacao" title="">Legislação</a> | 
+		<a href="/internacional" title="">Internacional</a> | 		
+		<a href="/acessoainformacao" title="Acesso à Informação">Acesso à Informação</a> 
+		<!--<a href="/portal/page/portal/Intranet-MAPA/pagina-inicial" title="" class="intranet">Intranet</a> | -->
+		
+		<span>
+			<a href="/mapa-do-site" title="">Mapa do site</a>
+			<!--<a href="/perguntas-frequentes" title="">Perguntas frequentes</a> -->
+			<!--<a href="/glossario" title="">Glossário</a> -->
+		</span> 
+	</p> 
+	
+	</div> 
+</div> 
+
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE><TABLE  width="100%" id="rg20646"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55620_54_55587_55587"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55620_54_55587_55587"><div class="Bodyid1siteid0">
+<TABLE  width="100%" id="rg3661"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<td valign="top" style="padding:0px 0px 0px 0px;width:100%;"><div id="p54_55620_54_55587_55587-54_45469_54_14388_14388"><TABLE  border="0" width="100%" cellpadding="0" cellspacing="0" class="RegionNoBorder">
+<TR><td class="RegionHeaderColor" style="width:100%"><div id="pcnt54_55620_54_55587_55587-54_45469_54_14388_14388"><div id="corpoatendimento">
+<div id="atendimento">
+			<div>
+				<p>
+					<strong>Atendimento ao Agricultor 0800 704 1995</strong>
+				</p>
+				<address>
+					Ministério da Agricultura, Pecuária e Abastecimento<br />
+					Esplanada dos Ministérios - Bloco D - Brasília/DF - CEP: 70.043-900 - Fone: (61)3218-2828				
+				</address>
+			</div>
+			<div class="instituicoes">
+				<strong></strong>
+				<ul>
+					<li><a href="#" title="">CASEMG</a></li>
+					<li><a href="#" title="">CEAGESP</a></li>
+					<li><a href="#" title="">CEPLAC</a></li>
+					<li><a href="#" title="">INMET</a></li>
+					<li><a href="#" title="">CEASA/MG</a></li>
+					<li><a href="#" title="">CONAB</a></li>
+					<li><a href="#" title="">EMBRAPA</a></li>
+				</ul>
+			</div>
+		</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div id="corpoatendimento">
+<div id="atendimento">
+			<div>
+				<p>
+					<strong>Contact the Ministery 0800 704 1995</strong>
+				</p>
+				<address>
+					Ministery of Agriculture, Livestock and Food Supply<br />
+					Esplanada dos Ministérios - Bloco D - Brasília/DF - CEP: 70.043-900 - Fone: 3218-2828				
+				</address>
+			</div>
+			<div class="instituicoes">
+				<strong>Linked Institutions</strong>
+				<ul>
+					<li><a href="#" title="">CASEMG</a></li>
+					<li><a href="#" title="">CEAGESP</a></li>
+					<li><a href="#" title="">CEPLAC</a></li>
+					<li><a href="#" title="">INMET</a></li>
+					<li><a href="#" title="">CEASA/MG</a></li>
+					<li><a href="#" title="">CONAB</a></li>
+					<li><a href="#" title="">EMBRAPA</a></li>
+				</ul>
+			</div>
+		</div>
+</div>-->
+
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE><TABLE  width="100%" id="rg20640"  border="0" cellpadding="0" cellspacing="0" summary=""><tr><td></td></tr></TABLE><!-- show footer template = 1145379865 -->
+
+<div id="dialog-confirm-terms" style="display:none;" title="Termos de Responsabilidade">
+<textarea style="width:99%;height:185px;font-size:90%" readonly="readonly">
+MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO GABINETE DO MINISTRO
+PORTARIA No 106, DE 17 DE FEVEREIRO DE 2009
+O MINISTRO DE ESTADO DA AGRICULTURA, PECUARIA E ABASTECIMENTO, no uso da competência estabelecida no art. 5o, inciso VII, da Instrução Normativa GSI No 1, de 13 de junho de 2008, tendo em vista os dispostos na Portaria no 33, de 13 de outubro de 2008, e na Portaria no 34, de 13 de outubro de 2008, resolve:
+Art. 1o Aprovar a política de segurança da informação e comunicações no âmbito do Ministério da Agricultura, Pecuária e Abastecimento (MAPA).
+Parágrafo único. Aplica-se esta política, no que couber, também no relacionamento do MAPA com outros 6rgaos públicos ou entidades privadas.
+Art. 2o Para fins desta Portaria, entende-se por:
+I - informação: e um ativo essencial para os negócios de uma organização e, por conseqüência, necessita ser adequadamente gerenciada e protegida independentemente de seu formato e meio;
+II - segurança das informações e comunicações: e a proteção contra ameaças visando garantir a continuidade do negócio da organização, minimizar os riscos, maximizar o retorno e as oportunidades de negócio, obtida a partir da implementação de um conjunto de controles adequados, incluindo: políticas, processos, normas, procedimentos e estruturas organizacionais, que precisam ser estabelecidos, implementados, monitorados, analisados criticamente e melhorados;
+III - Comitê de Segurança da Informação e Comunicações (CSI): e a unidade responsável pela manutenção e controle da política de segurança da informação e comunicações do MAPA;
+IV - finalidade:
+a) o estabelecimento dos direcionamentos e valores adotados para a gestão da segurança da informação no âmbito do MAPA, o apoio conceitual na adoção de soluções integradas e específicas de segurança da informação adequada às responsabilidades, funcionalidades e peculiaridades de cada uma de suas áreas funcionais;
+b) a descrição da conduta adequada para o tratamento da informação em todo o seu ciclo de vida (criação, manuseio, armazenamento, transporte e descarte) por meio de diretrizes para a segurança da informação do MAPA que visam preservar a integridade, confidencialidade e disponibilidade das informações; e
+c) o estabelecimento das diretrizes da política de segurança da informação e comunicações no MAPA a serem aplicadas tanto no ambiente informatizado quanta nos meios convencionais de processamento, comunicação e armazenamento da informação.
+V - Agente Público: toda pessoa que, por força de lei, contrato ou de qualquer outro ato jurídico, preste serviços de natureza permanente, temporária, excepcional ou eventual no MAPA;
+VI - público-alvo: todos os Agentes Públicos, que direta ou indiretamente, possuem acesso as informações do MAPA;
+VII - diretrizes de segurança da informação e comunicações: as ações que definem, em nível estratégico, a Política de Segurança da Informação e Comunicações do MAPA (PSIC/MAPA), visando preservar a disponibilidade, integridade e confidencialidade das informações da Instituição.
+VIII - patrimônio da instituição: toda informação criada, comunicada, manuseada, armazenada,
+transportada ou descartada pelos agentes públicos, no exercício de suas atividades junto ao MAPA, portanto, devendo ser adequadamente protegida, segundo as diretrizes descritas nesta Portaria e demais regulamentações em vigor; e
+IX - classificação da informação: o processo de classificação, em consonância com a legislação vigente, que busca estabelecer o controle de segurança devido a cada informação tratada ou custodiada pelo MAPA ao longo do seu ciclo de vida.
+Art. 3o As diretrizes de segurança da informação e comunicações previstas nesta Portaria são aplicadas ao ambiente do MAPA, a todos os agentes públicos que tenham acesso as informações e aos recursos computacionais da Instituição.
+§ 1o As diretrizes referidas no caput, serão:
+I - difundidas a todos os Agentes Públicos do MAPA por processo permanente de conscientização de segurança da informação; e
+II - periodicamente avaliadas, revisadas e analisadas criticamente pelo CSI/MAPA, visando a sua aderência e concordância aos objetivos institucionais deste Ministério e as legislações vigentes.
+§ 2o Cabe ao Agente Publico do MAPA conhecer e zelar pelo cumprimento das diretrizes, onde a desobediência implica nas sanções administrativas previstas em leis e regulamentações internas.
+Art. 4o Todos os Agentes Públicos do MAPA são responsáveis pela segurança dos ativos de informação e comunicações que estejam sob a sua responsabilidade e por todos os atos executados com suas identificações, tais como: login, crachá, carimbo, endereço de correio eletrônico ou assinatura digital.
+Parágrafo único. A identificação do Agente Público, qualquer que seja o meio e a forma, deve ser pessoal e intransferível, permitindo de maneira clara e inequívoca o seu reconhecimento.
+Art. 5o Devera existir uma estrutura organizacional de gestão da segurança da informação no MAPA, formalmente instituída e refletida no Regimento Interno, com a responsabilidade de executar os processos de segurança da informação.
+Art. 6o As informações criadas, comunicadas, manuseadas, armazenadas, transportadas ou descartadas serão classificadas quanto aos aspectos de confidencialidade, integridade e disponibilidade, de forma explícita ou implícita, e deve:
+I - auxiliar a alta administração do MAPA na priorização de ações e investimentos com vistas à correta aplicação de mecanismos de proteção; e
+II - ser realizada com base nas exigências das estratégias e necessidades operacionais prioritárias do MAPA, considerando as implicações que determinado grau de segurança poderá trazer ao seu cumprimento.
+Art. 7o O Agente Público deve ser capaz de identificar a classificação atribuída a uma informação e, a partir desta classificação, conhecer restrições de acesso e de divulgação associadas e obedecê-las.
+Art. 8o A autorização, o acesso e o uso das informações e dos recursos computacionais devem ser controlados e limitados ao necessário, considerando as atribuições de cada Agente Publico, onde qualquer outra forma de uso ou acesso além do necessário requer previa autorização do gestor da área responsável pela informação.
+§ 1o Todo sistema de informação do MAPA, automatizado ou não, deve ter um responsável formalmente designado pela autoridade competente.
+§ 2o Os privilégios de acesso às informações devem ser definidos pelo gestor da área responsável pela
+informação.
+§ 3o Sempre que houver mudança nas atribuições de determinado Agente Publico, os seus privilégios de acesso às informações e aos recursos computacionais devem ser adequados imediatamente, devendo ser cancelados em caso de desligamento do MAPA.
+Art. 9o O MAPA deve implementar, manter e testar periodicamente processo de gestão da continuidade de negócios visando reduzir, para um nível aceitável, a possibilidade de interrupção causada por desastres ou incidentes de segurança que afetem seus ativos de informação e comunicações.
+Art. 10. O MAPA deve implementar e manter processo de gestão de riscos com vistas a minimizar possíveis impactos associados aos ativos de informação e comunicações, onde esse processo deve possibilitar a seleção e priorização dos ativos a serem protegidos, bem como a definição e implementação de controles para a identificação e tratamento de possíveis problemas de segurança.
+Parágrafo único. As medidas de proteção devem ser planejadas e os custos na aplicação de controles devem ser balanceados de acordo com os danos potenciais de falhas de segurança.
+Art. 11. O uso dos recursos computacionais e de informações disponibilizadas pelo MAPA, será monitorado, respeitando os princípios legais, para tanto, devem ser implementados e mantidos, sempre que possível, mecanismos que permitam a rastreabilidade desse uso.
+Parágrafo único. A entrada e a saída de ativos de informação nas dependências do MAPA devem ser autorizadas e registradas por autoridade competente.
+Art. 12. Os objetivos das ações a serem implementadas, com base nas diretrizes da política de segurança da informação e comunicações estabelecidas nesta Portaria, são a salvaguarda dos dados, informações e materiais sigilosos de interesse do MAPA e do Estado Brasileiro, bem como dos sistemas computacionais e das áreas e instalações onde tramitam, alem da preservação da inviolabilidade e da intimidade da vida privada, da honra e da imagem das pessoas.
+Art. 13. O MAPA, além das diretrizes estabelecidas nesta Portaria, deve também, se orientar pelas melhores praticas e procedimentos de segurança da informação, recomendados por órgãos e entidades publicas e privadas responsáveis pelo estabelecimento de padrões.
+Art. 14. O CSI/MAPA e a instancia competente para dirimir eventuais dúvidas e deliberar sobre assuntos relativos à política de segurança da informação e comunicações deste Ministério.
+Parágrafo único. Os membros do CSI/MAPA, devem receber regularmente capacitação especializada na disciplina segurança da informação.
+Art. 15. O MAPA deve, com base nesta política de segurança da informação e comunicações, identificar as necessidades de normatização especifica para segurança de seus processos e procedimentos operacionais e propor ao CSI/MAPA a edição de respectivas Resoluções.
+Parágrafo único. As Resoluções editadas pelo CSI/MAPA deverão ser cumpridas pelos servidores públicos, agentes públicos terceirizados, empregados, consultores, estagiários e demais colaboradores internos, externos ou eventuais.
+Art. 16. As medidas de proteção da informação devem ser planejadas e aplicadas pela área competente em consonância com o CSI/MAPA, e devem estar de acordo com os objetivos, as estratégias e necessidades operacionais deste Ministério, respeitando a avaliação dos riscos e a analise de custo e beneficio para a continuidade de suas atividades.
+Art. 17. Os recursos computacionais disponibilizados pelo MAPA devem ser utilizados estritamente dentro do seu propósito, sendo vedados para usos próprio ou de terceiro, entretenimento, veiculação de opiniões político-partidárias ou religiosas.
+Art. 18. E proibido comprometer a integridade, a confidencialidade ou a disponibilidade das informações criadas, manuseadas, armazenadas, transportadas, descartadas ou custodiadas pelo MAPA.
+§ 1o O gestor da área na qual a informação e criada quando cedida a outrem, sempre que necessário, e assessorado juridicamente, deve providenciar a documentação relativa à cessão de direitos sobre as informações do MAPA, antes da sua disponibilização.
+§ 2o Nos casos de obtenção de informações de terceiros, o gestor da área na qual a informação será utilizada deve, se necessário, providenciar junto ao cedente a documentação formal relativa à cessão de direitos sobre informações de terceiros antes de seu uso.
+Art. 19. O Agente Público deve comunicar os incidentes que afetam a segurança dos ativos de informação e comunicações ou o descumprimento da PSIC a Subsecretaria de Planejamento, Orçamento e Administração (SPOA).
+Art. 20. Em caso de quebra de segurança da informação por meios eletrônicos, a Coordenação-Geral de Tecnologia da Informação (CGTI) devera ser imediatamente acionada para adotar as providências necessárias, podendo inclusive determinar a restrição temporária do acesso as informações e aos recursos computacionais do MAPA.
+Art. 21. Os contratos firmados pelo MAPA devem conter clausulas que determinem a observância da política disposta nesta Portaria e suas respectivas normas.
+Art. 22. Esta Portaria entra em vigor na data de sua publicação. REINHOLD STEPHANES
+D.O.U., 26/02/2009 - Seção 1
+</textarea>
+</div>
+</BODY>
+
+</HTML>
+<!-- Page Metadata Generated On: 06-JUN-2015:23:01:33  Time Taken: 40 msecs -->
